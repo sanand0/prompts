@@ -1,5 +1,5 @@
 ---
-title: Article / Blog post reviewer
+title: Review Article / Blog post
 model: Any reasoning model
 ---
 
