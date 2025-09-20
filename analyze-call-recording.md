@@ -5,25 +5,37 @@ model: Any reasoning model
 
 Based on this transcript of my (Anand's) conversation, share:
 
-- **Insights**:
-  - List ONLY high-impact, practical & useful, surprising insights; include why it's counter-intuitive; fact-check against established research / ancient wisdom.
-  - Format as `- **Succinct summary**: why it's big, useful, and surprising`
-  - Mark the most powerful of these with ⭐
-- **What I missed**:
-  - List ALL others' statements I didn't fully absorb or missed a nuance. Format: `- **
-  - Format as `- **Summary of what I missed**: who said what, and details of what I missed`
-- **What they missed**:
-  - List ALL my statements that others didn't fully or correctly interpret.
-  - Format as `- **Summary of what they missed**: who missed what, and details of what they missed`
-- **Next steps**:
-  - List ONLY agreed-upon actions / next steps.
-  - Format as `- **Owner**: Action`.
-- **Try out**:
-  - List things to try out: high-impact, novel experiments, prototypes, or habits based on transcript.
-  - Format as `- **What to try**: why it's high-impact & novel`
+- **Insights**: List ONLY high-impact, practical & useful, surprising insights; include why it's counter-intuitive; fact-check against established research / ancient wisdom.
+- **Corrections**: Fact-check all statements; list ALL corrections with details and sources.
+- **What I missed**: List ALL others' statements I didn't fully absorb or missed a nuance.
+- **What they missed**: List ALL my statements that others didn't fully or correctly interpret.
+- **Next steps**: List ONLY agreed-upon actions / next steps.
+- **Try out**: List things to try out: high-impact, novel experiments, prototypes, or habits based on transcript.
 
+If a point is very powerful/impactful, mark it with ⭐.
 Align with my interests.
 Help me learn and expand my horizons.
 Fact check against established science / ancient wisdom.
 
-Format as a list of lists. 5 top-level items (Insights, What I missed, ...) with sub-bullets under each. Avoid sections / headings.
+Write as a Markdown list of lists with no headings:
+
+- **Insights**:
+  - **(write a succinct insight summary)**: why it's big, useful, and surprising
+  - ⭐ **(next succinct insight summary)**: begin with a star for the best bullets
+  - ...
+- **Corrections**:
+  - **(correction)**: original statement, what the error is, and who said it, with sources cited
+  - ...
+- **What I missed**:
+  - **(summary)**: details of what I missed and who said it
+  - ...
+- **What they missed**:
+  - **(summary)**: details of what they missed and who missed it
+  - ...
+- **Next steps**:
+  - **(name of owner)**: action to take
+  - ...
+- **Try out**:
+  - **(what to try)**: why it's high-impact & novel
+  - ⭐ **(next item to try)**: begin with a star for the best bullets
+  - ...

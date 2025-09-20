@@ -39,3 +39,5 @@ Begin with a concise checklist (3–7 bullets) of your main tasks before proceed
 ### Step 4: Suggest Featured Image Concepts
 
 - Propose 5 distinct, humorous single-panel color comic ideas (no text), each clearly conveying the central message. Each idea should include a human protagonist. List these as numbered prompts (1–5) suitable for an LLM.
+
+<!-- Generate an infographic -->
