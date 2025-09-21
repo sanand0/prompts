@@ -1,6 +1,7 @@
 ---
 title: Review Article / Blog post
-model: Any reasoning model
+model: ChatGPT GPT-5 Thinking
+purpose: Review articles for style and content. Suggest title, LinkedIn post, images.
 ---
 
 ## Role and Objective

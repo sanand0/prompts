@@ -1,7 +1,7 @@
 ---
 title: Reusable libraries
 model: Codex, Claude Code
-description: Symlink to repos to analyze.
+purpose: From a folder sym-linked to multiple projects, identify reusable libraries and functions.
 ---
 
 # Role and Objective

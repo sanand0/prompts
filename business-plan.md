@@ -1,6 +1,7 @@
 ---
 title: Convert notes / tasks to business idea and action plan
 model: Any reasoning model
+purpose: Evaluate a business idea in different ways, recommending a go/no-go decision and action plan.
 ---
 
 **Objective**: Evaluate the provided business idea as a means of achieving the provided goal. Recommend a go/no-go decision and, if applicable, a concrete action plan.

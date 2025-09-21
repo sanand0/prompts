@@ -1,6 +1,7 @@
 ---
 title: Convert notes / tasks to habit cards
 model: Any reasoning model
+purpose: Generate habits to follow from reviews / post-mortems / notes.
 ---
 
 **Objective**: Perform a detailed analysis of a supplied behavioral note to optimize habit formation. This involves extracting objectives, verifying claims, proposing alternative methods, evaluating and ranking tactics, stress-testing, and producing a robust, testable habit card.

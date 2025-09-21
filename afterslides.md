@@ -1,6 +1,7 @@
 ---
 title: Create an FAQ-style slide deck from a transcript
-model: Any reasoning model
+model: ChatGPT GPT-5 Thinking
+purpose: Annotate transcripts with section summaries, creating FAQ-style slides from talks / AMAs.
 ---
 
 Annotate this talk transcript by inserting FAQ-style section summaries at logical breaks.

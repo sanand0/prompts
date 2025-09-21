@@ -1,6 +1,7 @@
 ---
 title: Transcribe talk
 model: https://aistudio.google.com/prompts/new_chat
+purpose: Transcribe talk recordings with Q&A.
 ---
 
 Transcribe this talk.

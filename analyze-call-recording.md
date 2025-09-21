@@ -1,6 +1,7 @@
 ---
 title: Analyze Call Recording
-model: Any reasoning model
+model: ChatGPT GPT-5 Thinking
+purpose: Analyze call transcripts to extract key insights, action items, and feedback.
 ---
 
 Based on this transcript of my (Anand's) conversation, share:
