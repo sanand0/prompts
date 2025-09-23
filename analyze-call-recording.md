@@ -6,7 +6,8 @@ purpose: Analyze call transcripts to extract key insights, action items, and fee
 
 Based on this transcript of my (Anand's) conversation, share:
 
-- **Insights**: List ONLY high-impact, practical & useful, surprising insights; include why it's counter-intuitive; fact-check against established research / ancient wisdom.
+- **Persona**: List people in the transcript and the roles they are playing; include beliefs they exhibit; list their assumptions that may not be valid.
+- **Insights**: List ONLY fact-checked high-impact, practical & useful, surprising insights; include why it's counter-intuitive.
 - **Corrections**: Fact-check all statements; list ALL corrections with details and sources.
 - **What I missed**: List ALL others' statements I didn't fully absorb or missed a nuance.
 - **What they missed**: List ALL my statements that others didn't fully or correctly interpret.
@@ -16,27 +17,30 @@ Based on this transcript of my (Anand's) conversation, share:
 If a point is very powerful/impactful, mark it with ⭐.
 Align with my interests.
 Help me learn and expand my horizons.
-Fact check against established science / ancient wisdom.
+Fact-check against established science / ancient wisdom.
 
 Write as a Markdown list of lists with no headings:
 
+- **Persona**:
+  - **[name of the person]**: their role in the conversation, beliefs they hold, assumptions that may be invalid
+  - ...
 - **Insights**:
-  - **(write a succinct insight summary)**: why it's big, useful, and surprising
-  - ⭐ **(next succinct insight summary)**: begin with a star for the best bullets
+  - **[a succinct insight summary]**: why it's big, useful, and surprising
+  - ⭐ **[next succinct insight summary]**: begin with a star for the best bullets
   - ...
 - **Corrections**:
-  - **(correction)**: original statement, what the error is, and who said it, with sources cited
+  - **[correction]**: original statement, what the error is, and who said it, with sources cited
   - ...
 - **What I missed**:
-  - **(summary)**: details of what I missed and who said it
+  - **[summary]**: details of what I missed and who said it
   - ...
 - **What they missed**:
-  - **(summary)**: details of what they missed and who missed it
+  - **[summary]**: details of what they missed and who missed it
   - ...
 - **Next steps**:
-  - **(name of owner)**: action to take
+  - **[name of owner]**: action to take
   - ...
 - **Try out**:
-  - **(what to try)**: why it's high-impact & novel
-  - ⭐ **(next item to try)**: begin with a star for the best bullets
+  - **[what to try]**: why it's high-impact & novel
+  - ⭐ **[next item to try]**: begin with a star for the best bullets
   - ...
