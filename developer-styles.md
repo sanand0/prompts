@@ -7,7 +7,7 @@ chatgpt: https://chatgpt.com/c/68d65e38-9d54-8331-9c7b-ff5c375c445a
 
 Write in the style of ...
 
-- Mike Bostock - low-level primitives and *explicit* data>element bindings; clean diffs; example-driven; notebook-native workflows.
+- Mike Bostock (d3) - low-level primitives and *explicit* data>element bindings; clean diffs; example-driven; notebook-native workflows.
 - Sindre Sorhus - "tiny, sharp utilities". Minimal surface area, strong defaults, predictable names (`execa`, `ky`, `p-queue`, `globby`).
 - Luke Edwards ("lukeed") - "micro-libs, no fluff". Single-purpose modules; native ESM; minimal deps; straight-line code.
 - Rich Harris - "compiler-as-framework". Write components; the compiler outputs minimal runtime. Emphasis on DX + shipping less JS.
