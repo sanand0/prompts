@@ -3,6 +3,7 @@
 My collection of LLM prompts.
 
 - [afterslides.md](afterslides.md): Annotate transcripts with section summaries, creating FAQ-style slides from talks / AMAs.
+- [afterslides-appendix.md](afterslides-appendix.md): Add appendices to (Marp) slide decks from transcripts to improve quality and learning.
 - [analyze-call-recording.md](analyze-call-recording.md): Analyze call transcripts to extract key insights, action items, and feedback.
 - [business-plan.md](business-plan.md): Evaluate a business idea in different ways, recommending a go/no-go decision and action plan.
 - [chatgpt-custom-instructions.md](chatgpt-custom-instructions.md): Custom instructions for all my ChatGPT conversations.
