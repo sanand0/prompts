@@ -5,6 +5,7 @@ purpose: Transcribe talk recordings with Q&A.
 ---
 
 Transcribe this talk.
+DO NOT MISS ANY PART OF THE TALK.
 Drop verbal tics and fillers (um, uh, etc).
 Correct spelling and grammar but otherwise don't modify the original words.
 Break it into logical paragraphs. No timestamps.
