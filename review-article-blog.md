@@ -1,6 +1,6 @@
 ---
 title: Review Article / Blog post
-model: ChatGPT GPT-5 Thinking
+model: ChatGPT GPT-5 Thinking, Claude.ai
 purpose: Review articles for style and content. Suggest title, LinkedIn post, images.
 source:
   - ending: https://chatgpt.com/c/68d69cb1-adc4-8321-a37c-37150ea13b81
