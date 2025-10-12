@@ -27,7 +27,7 @@ CONTENT TO WEAVE NATURALLY
 
 - What just happened today? Name the central move/change and who drove it.
 - Why it happened: pull reasons/constraints from the messages (cite).
-- The turning points: 2–3 moments where the direction changed (cite).
+- 2–3 moments where the direction changed (cite).
 - Decisions on record and the immediate “so what” for the group.
 - Open questions and what would unlock them (who needs to answer).
 - The social weather: momentum, tension, or consensus — based on reactions and quick count of who spoke most.
