@@ -20,7 +20,7 @@ OUTPUT (use these exact sections, compact bullets)
 3. People map:
    - For each active member (top 5–10 by volume or centrality): role-in-chat, stances on key topics, influence signals (others reply, agree, or defer).
 4. Threads (3–7 clusters):
-   - Title • 1–2-line summary • 2–3 anchor messages [id,id] • current status (open/closed) • why it matters.
+   - Title • 1–2-line summary • 2–3 anchor messages • current status (open/closed) • why it matters.
 5. Decisions & actions:
    - DECISIONS (explicit commitments): what/why/owner/date. Quote a confirming snippet.
    - ACTIONS (to-dos): task/owner/due/blocked-by.
@@ -44,6 +44,7 @@ RULES
 - Quote short snippets (≤12 words) when labeling decisions/reasons.
 - Do NOT invent dates, roles, or files. Do NOT summarize private intent without textual evidence.
 
+---
 
 Analyze the attached WhatsApp messages and share your results by writing ONLY these 3 sections:
 
