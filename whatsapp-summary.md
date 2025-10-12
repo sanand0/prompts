@@ -9,7 +9,7 @@ From the threaded WhatsApp log, write a fast, conversational news bulletin in en
 
 ---
 
-Analyze the attached WhatsApp messages and share your results by writing ONLY these 3 sections:
+Analyze the WhatsApp log and ONLY these 3 sections:
 
 - **Topics**. For each of the 20 most active topics, write a paragraph mentioning:
   - Start date (e.g. 13 Sep 2025)
