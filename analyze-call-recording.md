@@ -9,8 +9,8 @@ Based on this transcript of my (Anand's) conversation, share:
 - **Persona**: List people in the transcript and the roles they are playing; include beliefs they exhibit; list their assumptions that may not be valid.
 - **Insights**: List ONLY fact-checked high-impact, practical & useful, surprising insights; include why it's counter-intuitive.
 - **Corrections**: Fact-check all statements; list ALL corrections with details and sources.
-- **What I missed**: List ALL others' statements I didn't fully absorb or missed a nuance.
-- **What they missed**: List ALL my statements that others didn't fully or correctly interpret.
+- **What I missed**: List ALL others' statements I missed or misread, with likely cognitive/interaction reasons.
+- **What they missed**: List ALL my statements that others missed or misread, with likely cognitive/interaction reasons.
 - **Next steps**: List ONLY agreed-upon actions / next steps.
 - **Try out**: List things to try out: high-impact, novel experiments, prototypes, or habits based on transcript.
 

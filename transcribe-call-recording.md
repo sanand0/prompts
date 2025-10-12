@@ -5,6 +5,7 @@ purpose: Transcribe call recordings guessing speaker names.
 ---
 
 Transcribe this call recording.
+DO NOT MISS ANY PART OF THE CONVERSATION.
 Drop verbal tics and fillers (um, uh, etc).
 Correct spelling and grammar but otherwise don't modify the original words.
 Break it into logical paragraphs. No timestamps.

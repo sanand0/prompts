@@ -1,6 +1,6 @@
 ---
 title: Review Article / Blog post
-model: ChatGPT GPT-5 Thinking
+model: ChatGPT GPT-5 Thinking, Claude.ai
 purpose: Review articles for style and content. Suggest title, LinkedIn post, images.
 source:
   - ending: https://chatgpt.com/c/68d69cb1-adc4-8321-a37c-37150ea13b81
@@ -44,6 +44,10 @@ Generate 10 compelling, informative, and concise titles for the article. Rank fr
 
 Summarize the article into a concise LinkedIn post. Start with an engaging opening. Maximize actionable insights while retaining the article’s style.
 
-### Step 4: Suggest Featured Image Concepts
+### Step 4: Suggest Featured Image Ideas
 
 Propose 5 distinct, humorous single-panel color comic ideas (no text), each clearly conveying the central message. Each idea should include a human protagonist. Write clearly enough for an image generation model to generate.
+
+### Step 5: Fact-check
+
+List all errors and inconsistencies.

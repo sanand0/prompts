@@ -27,7 +27,7 @@ Evaluate ...
   - Context: input size, output size
   - Size: model size, memory usage
 - Library / framework additional checks:
-  - Adoption: Rapid growth & adoption in the last 6 months?
+  - Adoption: Rapid user growth & adoption in the last 6 months?
   - Plugins: size of ecosystem
   - Formats: breadth of input/output formats supported
 - Platform / services additional checks

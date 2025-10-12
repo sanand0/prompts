@@ -5,6 +5,7 @@ purpose: Have an AI coding agent write in the style of a popular developer
 source:
   - JavaScript: https://chatgpt.com/c/68d65e38-9d54-8331-9c7b-ff5c375c445a
   - Python: https://chatgpt.com/c/68d7fcb8-3154-8332-b373-ed07513938de
+  - Non-fiction: https://chatgpt.com/c/68db73d0-edbc-8322-b7da-5fbda6e1e120
 ---
 
 ## JavaScript
@@ -52,3 +53,31 @@ source:
 | nicoddemus   | Bruno Oliveira    | Pytest ergonomics: fixtures/plugins that keep tests readable, fast, and scalable.                                                  |
 | benoitc      | Benoit Chesneau   | UNIX-style simplicity for web serving: pre-fork model, predictable ops (`gunicorn`).                                               |
 | andymccurdy  | Andy McCurdy      | Thin, Pythonic client over a fast backend: predictable API and pragmatism for Redis (`redis-py`).                                  |
+
+## Non-fiction
+
+| Author              | Task                                         | Style                                                                                                          |
+| ------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Richard Feynman     | Teaching first-principles thinking           | Conversational, curious, strip problems to basics, use analogies and thought experiments to demystify.         |
+| Randall Munroe      | Executive one-pagers & FAQs                  | Dead-simple diagrams, stick-figure humor, and "explain like I'm five" text that makes hard ideas feel obvious. |
+| Bill Bryson         | Inspiring curiosity & wonder                 | Amiable, witty "curious layman" voice; sprinkle trivia, humor, and awe to make science welcoming.              |
+| David Macaulay      | Diagram-first technical onboarding           | Visual storytelling with annotated cut-aways, showing how hidden systems work step by step.                    |
+| Steven Strogatz     | Bridging high-school math -> real world      | Friendly and rigorous; walk readers through math with stories, metaphors, and gentle scaffolding.              |
+| Martin Gardner      | Teaching intuition via puzzles               | Playful puzzles that reveal deeper math; warm, witty, Socratic style that nudges readers to discover.          |
+| Oliver Sacks        | Empathy-first medical/science comms          | Case stories blending patient humanity with neuroscience; lyrical, humane, and anecdote-driven.                |
+| Neil deGrasse Tyson | Public talks & space explainers              | Conversational, pop-culture analogies, rhythmic phrasing, inviting readers to share cosmic awe.                |
+| James Gleick        | Context-rich tech/history explainers         | Elegant prose tracing the history of ideas; connects abstract science to culture and narrative arcs.           |
+| Steven Pinker       | Evidence-based persuasion                    | Clear, data-heavy arguments; use charts, controlled vocabulary, and careful logic to build trust.              |
+| Stephen Jay Gould   | Nuanced debates & perspective-taking         | Essayist voice mixing science, history, and metaphor; relish complexity while staying readable.                |
+| Tim Harford         | Policy/ops choices under constraints         | Everyday stories unpacking incentives; engaging, conversational economics with sharp metaphors.                |
+| Michael Lewis       | Executive storytelling for complex markets   | Narrative nonfiction built around characters; reveal systems (finance, sports, gov't) through story arcs.      |
+| Mary Roach          | Making "dry" topics irresistibly readable    | Irreverent, curious, conversational; dive into taboo/overlooked corners with quirky questions.                 |
+| Hannah Fry          | Applied data/AI to everyday life             | Crisp, modern math/data explanations; balances rigor with storytelling and humor.                              |
+| Ed Yong             | Crisis comms & public-health explainers      | Clear, empathetic journalism; explain systems with human stakes and metaphorical clarity.                      |
+| Vaclav Smil         | Policy/strategy grounded in physical reality | Dense, data-rich analysis; blunt, contrarian style focused on energy, food, and material limits.               |
+| Jared Diamond       | Framing civilization-scale questions         | Sweeping synthesis of geography, biology, and history; grand-theory storytelling with cautionary tone.         |
+| Matt Ridley         | Big-picture synthesis                        | Cross-domain evolutionary/economic analogies; optimistic narratives about progress and innovation.             |
+| Brian Greene        | Explaining abstract math/physics             | Careful metaphors and storytelling; bridge advanced physics to intuition without oversimplifying.              |
+| Don Norman          | UX principles for engineers & PMs            | Plain, practical design psychology; clear rules on affordances, feedback, and usability.                       |
+| Isaac Asimov        | Building broad scientific literacy fast      | Encyclopedic, lucid, and straightforward; explain any topic clearly, step by step, with zero jargon.           |
+| Malcolm Gladwell    | Shifting lay mental models quickly           | Narrative-driven, counterintuitive hooks; blend social science with parables and anecdotes.                    |
