@@ -16,6 +16,8 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
   - Headings, read together, string a cohesive story.
   - Write headings as an outline first. THEN fill in the slide bullets.
   - Preserve transcript order. Write slides in the same order as in the transcript.
+  - Write **direct, declarative action titles**; avoid arrows (→, ->) and placeholders (e.g., "Close and next steps").
+  - When naming sets, **state them explicitly** (e.g., "Three mitigations: Pre-frame, Constrain outputs, Audit").
 - In each slide, add ≤5 bullet points, each ≤25 words, that support the H2 heading with content from the transcript.
   - Write simple, flowing, conversational prose as complete sentences.
   - Highlight in **bold** the top 1-3 phrases that address the slide heading directly, if applicable.
