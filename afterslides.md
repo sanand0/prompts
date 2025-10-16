@@ -34,27 +34,33 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 
 <OUTPUT-FORMAT>
 
-## Summary of first slide (≤10 words)
+## (Outline)
 
-- Supporting statement 1
+- (Summary of first slide)
+- (Summary of second slide)
+- ...
+
+## (Summary of first slide)
+
+- (Supporting statement)
 - ...
 
 <transcript>
 
-first 10 words of the transcript for the first slide
+(first 10 words of the transcript for the first slide)
 
 </transcript>
 
 ---
 
-## Summary of second slide (≤10 words)
+## (Summary of second slide)
 
-- Supporting statement 1
+- (Supporting statement)
 - ...
 
 <transcript>
 
-first 10 words of the transcript for the second slide
+(first 10 words of the transcript for the second slide)
 
 </transcript>
 
