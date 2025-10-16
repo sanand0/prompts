@@ -36,7 +36,7 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 
 <OUTPUT-FORMAT>
 
-## Summary of first slide (≤7 words)
+## Summary of first slide (≤10 words)
 
 - bullet point 1
 - ...
@@ -49,7 +49,7 @@ first 10 words of the transcript for the first slide
 
 ---
 
-## Summary of second slide (≤7 words)
+## Summary of second slide (≤10 words)
 
 - bullet point 1
 - ...
