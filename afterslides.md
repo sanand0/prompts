@@ -11,6 +11,7 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 - Divide the transcript into logical sections covering one slide worth of content. Preserve the transcript order.
 - Prefix each transcript section with a Markdown slide.
 - Write as if the slides were written BEFORE the talk. Don't refer to participants.
+- Use simple language as if explaining the concept to a colleague.
 - Begin the slide with an H2 heading (≤10 words) that captures the core insight or action.
   - Use McKinsey-style action titles: insightful, useful takeaways for the reader.
   - Avoid vague verbs like "explore" or placeholders like "next steps" or "introduction". State the actual insight or directive.
@@ -20,7 +21,6 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 - In each slide, add ≤5 supporting statements based on the transcript, each ≤30 words.
   - Highlight in **bold** the top 1-3 phrases that most closely support the slide heading, if applicable.
   - Prefer augmenting the claim with a brief reason, impact, or implication ("what / why / so what").
-  - Use natural, flowing language as if explaining the concept to a colleague.
 
 # Fact-checking and appendices
 
