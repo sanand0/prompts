@@ -13,7 +13,7 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 - Write as if the slides were written BEFORE the talk. Don't refer to participants.
 - Begin the slide with an H2 heading (≤10 words) that captures the core insight or action.
   - Use McKinsey-style action titles / newspaper-style headlines. They're insightful, useful takeaways for the reader.
-  - Avoid vague verbs like "explore" or placeholders. State the actual insight or directive.
+  - Avoid vague verbs like "explore" or placeholders like "next steps" or "introduction". State the actual insight or directive.
   - First, write headings as an outline. Just reading the headings tells the complete, cohesive story. Add bullets later.
 - In each slide, add ≤5 supporting statements based on the transcript, each ≤30 words.
   - Highlight in **bold** the top 1-3 phrases that most closely support the slide heading, if applicable.
