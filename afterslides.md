@@ -63,4 +63,4 @@ first 10 words of the transcript for the second slide
 
 ---
 
-<!-- paste transcript here -->
+<!-- transcript goes here -->
