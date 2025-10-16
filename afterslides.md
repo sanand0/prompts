@@ -4,20 +4,21 @@ model: ChatGPT GPT-5 Thinking
 purpose: Annotate transcripts with section summaries, creating FAQ-style slides from talks / AMAs.
 ---
 
-Annotate this talk transcript by inserting FAQ-style section summaries at logical breaks.
+Annotate this talk transcript by generating Marp slides at logical breaks.
 
 # Instructions
 
-- Divide the transcript into logical sections, each covering one topic.
-- Before each transcript section, insert a Markdown summary.
-- Begin the summary with an H2 heading (≤7 words). Use McKinsey-style action titles / newspaper-style headlines.
-  - Headings conveys the entire point of the section. Reading just the headings one after another forms a story.
-  - Therefore, plan all the headings as an outline first. THEN fill in the bullets.
-  - Keep headings insightful. Make a useful / educative point the reader can learn.
-  - Preserve the order of the transcript. Write sections in the same order as in the transcript.
-- In each section, add ≤5 bullet points, each ≤25 words, that support the H2 heading using content from the transcript.
+- Divide the transcript into logical sections covering one slide worth of content.
+- Prefix each transcript section with a Markdown slide.
+- Begin the slide with an H2 heading (≤7 words).
+  - Use McKinsey-style action titles / newspaper-style headlines. They're insightful, useful takeaways for the reader.
+  - Headings summarize the entire slide.
+  - Headings, read together, string a cohesive story.
+  - Write headings as an outline first. THEN fill in the slide bullets.
+  - Preserve transcript order. Write slides in the same order as in the transcript.
+- In each slide, add ≤5 bullet points, each ≤25 words, that support the H2 heading with content from the transcript.
   - Write bullets as complete sentences.
-  - Mimic the transcript style in the bullets, e.g. first person, casual tone.
+  - Mimic the transcript style in the bullets, e.g. conversational tone.
   - Highlight in **bold** the top 1-3 phrases that address the section heading directly, if applicable.
 - Write as if the the sections were written BEFORE the talk. Don't refer to participants.
 
