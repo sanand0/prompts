@@ -20,7 +20,7 @@ Annotate this talk transcript by generating Marp slides at logical breaks.
   - Write bullets as complete sentences.
   - Mimic the transcript style in the bullets, e.g. conversational tone.
   - Highlight in **bold** the top 1-3 phrases that address the slide heading directly, if applicable.
-- Write as if the the slides were written BEFORE the talk. Don't refer to participants.
+- Write as if the slides were written BEFORE the talk. Don't refer to participants.
 
 Fact-checking and appendices:
 
@@ -34,27 +34,27 @@ Fact-checking and appendices:
 
 <OUTPUT-FORMAT>
 
-## Summary of first section (≤7 words)
+## Summary of first slide (≤7 words)
 
 - bullet point 1
 - ...
 
 <transcript>
 
-first 10 words of the transcript for the first section
+first 10 words of the transcript for the first slide
 
 </transcript>
 
 ---
 
-## Summary of second section (≤7 words)
+## Summary of second slide (≤7 words)
 
 - bullet point 1
 - ...
 
 <transcript>
 
-first 10 words of the transcript for the second section
+first 10 words of the transcript for the second slide
 
 </transcript>
 
