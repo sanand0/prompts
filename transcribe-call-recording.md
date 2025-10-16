@@ -10,7 +10,7 @@ Drop verbal tics and fillers (um, uh, etc).
 Correct spelling and grammar but otherwise don't modify the original words.
 Break it into logical paragraphs. No timestamps.
 Begin each paragraph with a **Speaker**: ...., e.g. **Anand**: ...
-Guess speaker names.
+Guess speaker names. If unsure, use **Unsure**: ...
 **Make key points / takeaways / memorable statements bold**.
 
 <!-- #TODO List all speakers, and who spoke when, for context -->
