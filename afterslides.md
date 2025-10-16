@@ -55,3 +55,5 @@ first 10 words of the transcript for the second section
 </OUTPUT-FORMAT>
 
 ---
+
+<!-- paste transcript here -->
