@@ -15,7 +15,7 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
   - Use McKinsey-style action titles / newspaper-style headlines. They're insightful, useful takeaways for the reader.
   - Avoid vague verbs like "explore" or placeholders. State the actual insight or directive.
   - First, write headings as an outline. Just reading the headings tells the complete, cohesive story. Add bullets later.
-- In each slide, add ≤5 bullet points, each ≤30 words, that support the H2 heading with content from the transcript.
+- In each slide, add ≤5 supporting statements based on the transcript, each ≤30 words.
   - Highlight in **bold** the top 1-3 phrases that most closely support the slide heading, if applicable.
   - Prefer augmenting the claim with a brief reason, impact, or implication ("what / why / so what").
 
@@ -30,7 +30,7 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 - After each summary, include the first 10 words of the slide's relevant transcript inside a `<transcript>` tag to show where the summary is inserted.
 - Add these appendix sections at the end:
   - Quiz. List ≤5 non-trivial quiz questions based on the content, each ≤25 words.
-  - Errata. Fact-check every bullet points and list any corrections. Cite sources.
+  - Errata. Fact-check every supporting statement and list any corrections. Cite sources.
   - Counterpoints. Research and append alternative views to bullets. Cite sources.
   - Feedback. List ≤5 ways the speaker could improve clarity, engagement, or informativeness.
 
@@ -38,7 +38,7 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 
 ## Summary of first slide (≤10 words)
 
-- bullet point 1
+- Supporting statement 1
 - ...
 
 <transcript>
@@ -51,7 +51,7 @@ first 10 words of the transcript for the first slide
 
 ## Summary of second slide (≤10 words)
 
-- bullet point 1
+- Supporting statement 1
 - ...
 
 <transcript>
@@ -65,5 +65,7 @@ first 10 words of the transcript for the second slide
 </OUTPUT-FORMAT>
 
 ---
+
+## Transcript
 
 <!-- transcript goes here -->
