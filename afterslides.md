@@ -10,7 +10,7 @@ Annotate this talk transcript by inserting FAQ-style section summaries at logica
 
 - Divide the transcript into logical sections, each covering one topic.
 - Before each transcript section, insert a Markdown summary.
-- Begin the summary with an H2 heading (≤7 words). If the section answers a question, summarize the question as the heading.
+- Begin the summary with an H2 heading (≤7 words). Use McKinsey-style action titles / newspaper-style headlines. Reading a single sentence / phrase conveys the entire point of the slide. Reading just the headings forms a story.
 - Then add ≤5 bullet points, each ≤25 words, that directly answer the question using content from the transcript.
 - Write bullets as complete sentences.
 - Mimic the transcript style in the bullets, e.g. first person, casual tone.
