@@ -14,11 +14,12 @@ Annotate this talk transcript by inserting FAQ-style section summaries at logica
   - Headings are insightful. Make a useful / educative point the reader can learn.
   - Headings conveys the entire point of the section. Reading just the headings one after another forms a story.
   - Therefore, plan all the headings as an outline first. THEN fill in the bullets.
+  - Preserve the order of the transcript. Write sections in the same order as in the transcript.
 - In each section, add ≤5 bullet points, each ≤25 words, that support the H2 heading using content from the transcript.
-- Write bullets as complete sentences.
-- Mimic the transcript style in the bullets, e.g. first person, casual tone.
-- Highlight in **bold** the top 1-3 phrases that address the section heading directly, if applicable.
-- Preserve the order of the transcript. Write sections in the same order as in the transcript.
+  - Write bullets as complete sentences.
+  - Mimic the transcript style in the bullets, e.g. first person, casual tone.
+  - Highlight in **bold** the top 1-3 phrases that address the section heading directly, if applicable.
+- NEVER mention any names in the headings / bullets
 
 Fact-checking and appendices:
 
