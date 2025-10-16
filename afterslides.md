@@ -19,13 +19,13 @@ Annotate this talk transcript by generating Marp slides at logical breaks.
 - In each slide, add ≤5 bullet points, each ≤25 words, that support the H2 heading with content from the transcript.
   - Write bullets as complete sentences.
   - Mimic the transcript style in the bullets, e.g. conversational tone.
-  - Highlight in **bold** the top 1-3 phrases that address the section heading directly, if applicable.
-- Write as if the the sections were written BEFORE the talk. Don't refer to participants.
+  - Highlight in **bold** the top 1-3 phrases that address the slide heading directly, if applicable.
+- Write as if the the slides were written BEFORE the talk. Don't refer to participants.
 
 Fact-checking and appendices:
 
 - Searching online to fact-check each bullet. On errors, append an `(**Edit**: ...)` note to the bullet explaining the correction and link to the source. Link directly relevant and useful external references from bullet text. Use links sparingly.
-- After each summary, include the first 10 words of that section's transcript inside a `<transcript>` tag to show where the summary is inserted.
+- After each summary, include the first 10 words of the slide's relevent transcript inside a `<transcript>` tag to show where the summary is inserted.
 - Add these appendix sections at the end:
   - Quiz. List ≤5 non-trivial quiz questions based on the content, each ≤25 words.
   - Errata. Fact-check every bullet points and list any corrections. Cite sources.
