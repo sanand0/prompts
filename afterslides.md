@@ -16,14 +16,17 @@ Annotate this talk transcript by inserting FAQ-style section summaries at logica
 - Write bullets as complete sentences.
 - Mimic the transcript style in the bullets, e.g. first person, casual tone.
 - Highlight in **bold** the top 1-3 phrases that address the section heading directly, if applicable.
+- Preserve the order of the transcript. Write sections in the same order as in the transcript.
+
+Fact-checking and appendices:
+
 - Searching online to fact-check each bullet. On errors, append an `(**Edit**: ...)` note to the bullet explaining the correction and link to the source. Link directly relevant and useful external references from bullet text. Use links sparingly.
 - After each summary, include the first 10 words of that section's transcript inside a `<transcript>` tag to show where the summary is inserted.
-- Add these sections at the end:
+- Add these appendix slides at the end:
   - Quiz. List ≤5 non-trivial quiz questions based on the content, each ≤25 words.
   - Errata. Fact-check every bullet points and list any corrections. Cite sources.
   - Counterpoints. Research and append alternative views to bullets. Cite sources.
   - Feedback. List ≤5 ways the speaker could improve clarity, engagement, or informativeness.
-- Preserve the order of the transcript. Write sections in the same order as in the transcript.
 
 <OUTPUT-FORMAT>
 
