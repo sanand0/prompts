@@ -10,15 +10,14 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 
 - Divide the transcript into logical sections covering one slide worth of content.
 - Prefix each transcript section with a Markdown slide.
-- Begin the slide with an H2 heading (≤7 words).
+- Begin the slide with an H2 heading (≤10 words).
   - Use McKinsey-style action titles / newspaper-style headlines. They're insightful, useful takeaways for the reader.
   - Headings summarize the entire slide.
   - Headings, read together, string a cohesive story.
   - Write headings as an outline first. THEN fill in the slide bullets.
   - Preserve transcript order. Write slides in the same order as in the transcript.
 - In each slide, add ≤5 bullet points, each ≤25 words, that support the H2 heading with content from the transcript.
-  - Write bullets as complete sentences.
-  - Use simple, conversational language.
+  - Write simple, flowing, conversational prose as complete sentences.
   - Highlight in **bold** the top 1-3 phrases that address the slide heading directly, if applicable.
 - Write as if the slides were written BEFORE the talk. Don't refer to participants.
 
