@@ -19,7 +19,7 @@ Annotate this talk transcript by inserting FAQ-style section summaries at logica
   - Write bullets as complete sentences.
   - Mimic the transcript style in the bullets, e.g. first person, casual tone.
   - Highlight in **bold** the top 1-3 phrases that address the section heading directly, if applicable.
-- NEVER mention any names in the headings / bullets
+- Write as if the the sections were written BEFORE the talk. Don't refer to participants.
 
 Fact-checking and appendices:
 
