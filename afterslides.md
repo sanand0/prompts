@@ -1,6 +1,6 @@
 ---
 title: Create an FAQ-style slide deck from a transcript
-model: ChatGPT GPT-5 Thinking
+model: Claude Sonnet 4.5
 purpose: Annotate transcripts with section summaries, creating FAQ-style slides from talks / AMAs.
 ---
 
