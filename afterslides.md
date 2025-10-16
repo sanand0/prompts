@@ -12,7 +12,7 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 - Prefix each transcript section with a Markdown slide.
 - Write as if the slides were written BEFORE the talk. Don't refer to participants.
 - Begin the slide with an H2 heading (≤10 words) that captures the core insight or action.
-  - Use McKinsey-style action titles / newspaper-style headlines. They're insightful, useful takeaways for the reader.
+  - Use McKinsey-style action titles: insightful, useful takeaways for the reader.
   - Avoid vague verbs like "explore" or placeholders like "next steps" or "introduction". State the actual insight or directive.
   - First, write headings as an outline.
 - **Verify outline**. Read the outline. See if it forms a complete, cohesive story covering the entire transcript.
@@ -22,8 +22,8 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 
 # Style
 
-- Write headings and bullets as complete, standalone sentences.
-- Use natural, flowing language as if explaining the concept to a colleague. Avoid telegraphic fragments.
+- Write headings and bullets as complete sentences. Avoid telegraphic fragments, semicolons, abbreviations, or anything you wouldn't find in a book.
+- Use natural, flowing language as if explaining the concept to a colleague.
 
 # Fact-checking and appendices
 
