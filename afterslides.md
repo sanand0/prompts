@@ -4,7 +4,7 @@ model: ChatGPT GPT-5 Thinking
 purpose: Annotate transcripts with section summaries, creating FAQ-style slides from talks / AMAs.
 ---
 
-Annotate this talk transcript by generating Marp slides at logical breaks.
+Annotate this talk transcript by inserting slides (in Markdown) at logical breaks.
 
 # Instructions
 
@@ -18,7 +18,7 @@ Annotate this talk transcript by generating Marp slides at logical breaks.
   - Preserve transcript order. Write slides in the same order as in the transcript.
 - In each slide, add ≤5 bullet points, each ≤25 words, that support the H2 heading with content from the transcript.
   - Write bullets as complete sentences.
-  - Mimic the transcript style in the bullets, e.g. conversational tone.
+  - Use simple, conversational language.
   - Highlight in **bold** the top 1-3 phrases that address the slide heading directly, if applicable.
 - Write as if the slides were written BEFORE the talk. Don't refer to participants.
 
