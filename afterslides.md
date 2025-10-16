@@ -18,9 +18,13 @@ Annotate this talk transcript by inserting slides (in Markdown) at logical break
 - In each slide, add ≤5 bullet points, each ≤30 words, that support the H2 heading with content from the transcript.
   - Highlight in **bold** the top 1-3 phrases that most closely support the slide heading, if applicable.
   - Prefer augmenting the claim with a brief reason, impact, or implication ("what / why / so what").
-- **Write headings and bullets as complete, standalone sentences in simple, flowing, conversational prose**. Avoid telegraphic phrases.
 
-Fact-checking and appendices:
+# Style
+
+- Write headings and bullets as complete, standalone sentences.
+- Use natural, flowing language as if explaining the concept to a colleague. Avoid telegraphic fragments.
+
+# Fact-checking and appendices
 
 - Searching online to fact-check each bullet. On errors, append an `(**Edit**: ...)` note to the bullet explaining the correction and link to the source. Link directly relevant and useful external references from bullet text. Use links sparingly.
 - After each summary, include the first 10 words of the slide's relevant transcript inside a `<transcript>` tag to show where the summary is inserted.
