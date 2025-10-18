@@ -51,3 +51,9 @@ Propose 5 distinct, humorous single-panel color comic ideas (no text), each clea
 ### Step 5: Fact-check
 
 List all errors and inconsistencies.
+
+<ARTICLE>
+
+<!-- PLACEHOLDER: article comes here -->
+
+</ARTICLE>
