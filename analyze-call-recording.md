@@ -12,7 +12,7 @@ Based on this transcript of my (Anand's) conversation, share:
 - **What I missed**: List ALL others' statements I missed or misread even at the end of the conversation, mention likely reasons (cognitive, bias, interaction, ...)
 - **What they missed**: List ALL my statements that others missed or misread even at the end of the conversation, mention likely reasons (cognitive, bias, interaction, ...)
 - **Next steps**: List ONLY agreed-upon actions / next steps.
-- **Try out**: List things to try out: high-impact, novel experiments, prototypes, or habits based on transcript.
+- **Try out**: Evaluate 10 experiments, prototypes, or habits the transcript inspires. List the 3 highest impact ones.
 
 If a point is very powerful/impactful, mark it with ⭐.
 Align with my interests.
