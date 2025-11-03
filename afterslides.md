@@ -6,26 +6,27 @@ purpose: Annotate transcripts with section summaries, creating FAQ-style slides 
 
 Annotate this talk transcript by inserting slides (in Markdown) at logical breaks.
 
+Write in a fluid, natural style.
+
+- Use simple language as if explaining the concept to a student.
+- Write as if the slides were written BEFORE the talk. Don't refer to participants.
+- Don't condense into telegraphic fragments using semicolons (;), em-dash (—), arrow (→), etc. Example: Not "Improve setup—choose right tool; repeat" but "Improve set up by choosing the right tool and repeat the process.".
+- Prefer concrete subjects and active verbs over abstract nouns and linking verbs. Example: Not "Edge cases justify synthetic data" but "Synthetic data lets you test rare edge cases".
+
 Instructions
 
-- Divide the transcript into logical sections covering one slide worth of content. Preserve the transcript order.
+- Divide the transcript into logical transcript sections covering one slide worth of content. Preserve the transcript order.
 - Prefix each transcript section with a Markdown slide.
-- Write as if the slides were written BEFORE the talk. Don't refer to participants.
-- Use simple language as if explaining the concept to a student.
-- Begin the slide with an H2 heading (≤10 words) that makes a declarative assertion.
+- Begin the slide with an H1 heading (≤10 words) that makes a declarative assertion.
   - Write as a complete sentence stating a finding, insight, or claim.
   - Use the Pyramid Principle: each title should answer "So what?" with a clear point of view (preferably with reason)
   - Use plain, conversational language: "makes it easy" not "reduces friction", "lets you" not "enables".
   - You may use "we" or "you" sparingly if it makes the title more direct and natural.
-  - Don't condense into telegraphic fragments, punctuation, abbreviations, etc.
-  - Example: Not "Choose right tool; improve setup" but "Improve set up by choosing the right tool".
-  - Prefer concrete subjects and active verbs over abstract nouns and linking verbs.
-  - Example: Not "Edge cases justify synthetic data" but "Synthetic data lets you test rare edge cases".
 - Write headings as an outline. **Verify**. See if it forms a complete, cohesive story covering the entire transcript.
-- Begin the slide with an H2 heading (≤10 words) that captures the core insight or action.
-- Write each slide, add 3-5 supporting statements based on the transcript, each ≤30 words.
+- Begin the slide with an H1 heading (≤10 words) that captures the core insight or action.
+- Write each slide, add 3-6 supporting paragraphs based on the transcript, each ≤30 words.
   - Highlight in **bold** the top 1-3 phrases that most closely support the slide heading, if applicable.
-  - Prefer augmenting the claim with a brief reason, impact, or implication ("what / why / so what").
+  - Try to explain the reason, impact, and/or implication ("what / why / so what") of the heading.
   - Incorporate content references / links if provided below.
   - Add a `<transcript>` tag with the first 10 words of transcript for this slide to mark the position.
 
@@ -38,13 +39,13 @@ Append these slides:
 
 <OUTPUT-FORMAT>
 
-## Outline
+# Outline
 
 - (Summary of first slide)
 - (Summary of second slide)
 - ...
 
-## (Summary of first slide)
+# (Summary of first slide)
 
 - (Supporting statement)
 - ...
@@ -57,7 +58,7 @@ Append these slides:
 
 ---
 
-## (Summary of second slide)
+# (Summary of second slide)
 
 - (Supporting statement)
 - ...
@@ -82,6 +83,6 @@ Append these slides:
 
 ---
 
-## Transcript
+# Transcript
 
 <!-- PLACEHOLDER: include transcript here -->
