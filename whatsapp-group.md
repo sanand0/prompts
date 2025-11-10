@@ -1,8 +1,15 @@
 ---
 title: WhatsApp Group
 model: ChatGPT GPT-5 Thinking
-purpose: Summarize a WhatsApp thread from https://tools.s-anand.net/whatsappscraper/ | whatsapp-group
+purpose: Summarize a WhatsApp thread from https://tools.s-anand.net/whatsappscraper/ | whatsappthread.jq
 source: https://chatgpt.com/c/68d8c76f-b550-8328-93f1-b1bc03a2c243
+chats:
+  VizChitra Community Update: https://chatgpt.com/c/68eb6fec-0cd0-8320-9cd9-769b25bc6bfb
+  Chem96 WhatsApp message analysis: https://chatgpt.com/c/68d8d4c4-e78c-8320-a53e-b3c306de5b7a
+  IIMB 2001 WhatsApp messages: https://chatgpt.com/c/68d8ccb1-6c8c-8327-9dde-99470c065aff
+  WhatsApp message analysis: https://chatgpt.com/c/68d8c76f-b550-8328-93f1-b1bc03a2c243
+  WhatsApp Data Insights: https://chatgpt.com/c/685b7c97-0cfc-800c-9e15-8e0bab4cbaf1
+  Missing Values in WhatsApp Data: https://chatgpt.com/c/685d468b-3ea8-800c-9b1b-2ab1765cf972
 ---
 
 Analyze the attached WhatsApp messages and share your results by writing ONLY these 3 sections:
