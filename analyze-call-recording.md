@@ -38,7 +38,7 @@ Write as a Markdown list of lists with no headings:
   - **[summary]**: details of what they missed and who missed it
   - ...
 - **Next steps**:
-  - **[name of owner]**: action to take
+  - **[name of owner]**: action agreed on
   - ...
 - **Try out**:
   - **[what to try]**: why it's high-impact & novel

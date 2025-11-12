@@ -1,7 +1,7 @@
 ---
 title: Developer Styles
 model: Coding agents
-purpose: Have an AI coding agent write in the style of a popular developer
+purpose: Have an AI coding agent write in the style of popular developers.
 source:
   - JavaScript: https://chatgpt.com/c/68d65e38-9d54-8331-9c7b-ff5c375c445a
   - Python: https://chatgpt.com/c/68d7fcb8-3154-8332-b373-ed07513938de

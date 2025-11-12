@@ -8,10 +8,14 @@ My collection of LLM prompts.
 - [business-plan.md](business-plan.md): Evaluate a business idea in different ways, recommending a go/no-go decision and action plan.
 - [chatgpt-custom-instructions.md](chatgpt-custom-instructions.md): Custom instructions for all my ChatGPT conversations.
 - [core-concepts.md](core-concepts.md): Distill core concepts from a topic.
-- [developer-styles.md](developer-styles.md): Have an AI coding agent write in the style of a popular developer
+- [developer-styles.md](developer-styles.md): Have an AI coding agent write in the style of popular developers.
 - [evaluate-technology.md](evaluate-technology.md): Evaluate technologies on criteria I care about.
+- [fake-data.md](fake-data.md): Generate realistic fake data for testing hypotheses and analysis.
+- [fragments.md](fragments.md): Prompt fragments useful to add to other prompts
 - [habit-card.md](habit-card.md): Generate habits to follow from reviews / post-mortems / notes.
 - [ideator.md](ideator.md): Generate new ideas by combining multiple concepts.
+- [mermaid-technical-architecture.md](mermaid-technical-architecture.md): Generate a detailed Mermaid technical architecture diagram for the given files.
+- [mutual-fund-analysis.md](mutual-fund-analysis.md): Find the best mutual funds to invest in over a 3-year horizon based on macro-economic factors.
 - [reusable-libraries.md](reusable-libraries.md): From a folder sym-linked to multiple projects, identify reusable libraries and functions.
 - [review-article-blog.md](review-article-blog.md): Review articles for style and content. Suggest title, LinkedIn post, images.
 - [transcribe-call-recording.md](transcribe-call-recording.md): Transcribe call recordings guessing speaker names.
