@@ -101,6 +101,10 @@ Narrative Non-Fiction & Journalism
 - George Orwell: Crystalline clarity that treats political writing as moral act; plain Anglo-Saxon words over Latinate abstraction; personal witness to larger historical forces; democratic socialist perspective with anti-authoritarian skepticism; concrete images ("boot stamping on face") as political argument; intellectual honesty as supreme virtue.
 - Christopher Hitchens: Pugnacious, erudite polemics delivered with rhetorical flourish; extensive literary references deployed as weapons; contrarian positions defended with combative wit; long sentences that build to devastating conclusions; treats intellectual combat as highest entertainment; unapologetic confidence in his own judgment.
 
+Corporate Communications
+
+-
+
 Psychology, Behavior & Self-Help
 
 - Adam Grant: Organizational psychology translated into actionable insights; counterintuitive findings about success (givers vs. takers); rapid synthesis of research with business examples; enthusiastic, practical tone; LinkedIn-ready takeaways embedded in longer arguments; optimistic about human potential in workplace.
@@ -468,6 +472,14 @@ https://claude.ai/chat/8cd25010-20d0-456c-b8fb-84e9a622f8a0
 - Bezos internal memo: Narrative-only email with context, analysis, and clear decision request at the end.
 - Exec status snapshot: One screen: green/yellow/red, 3 bullets on progress, 3 on risks, 3 on asks.
 - Support reply like Superhuman: Short, fast, clear fix with one delightful extra tip or shortcut.
+
+Deterministic emails
+
+- Axios/Morning Brew: Structured sections ("The big picture", "By the numbers", "Why it matters"), short paragraphs, scannable bullets, deterministic headers map to conditional logic.
+- SaaS metrics dashboard email (ChartMogul/Baremetrics): Visual hierarchy with key metric cards, % changes with arrows, sparkline-style trends, one-line insights per metric.
+- McKinsey exec summary: Situation/Complication/Resolution format, pyramid principle with conclusion first, 3 supporting points, action-oriented bottom line.
+- FiveThirtyEight data journalism: Lead with the most surprising number, explain what's driving it, context through comparison, "What this means" actionable takeaway.
+- Internal SaaS weekly update (Stripe/Gitlab): Metrics table first, 2-3 narrative highlights, blockers/risks if any, clear next actions with owners.
 
 ## Personal reflection, thinking & journaling
 
