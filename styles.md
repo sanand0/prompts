@@ -101,9 +101,11 @@ Narrative Non-Fiction & Journalism
 - George Orwell: Crystalline clarity that treats political writing as moral act; plain Anglo-Saxon words over Latinate abstraction; personal witness to larger historical forces; democratic socialist perspective with anti-authoritarian skepticism; concrete images ("boot stamping on face") as political argument; intellectual honesty as supreme virtue.
 - Christopher Hitchens: Pugnacious, erudite polemics delivered with rhetorical flourish; extensive literary references deployed as weapons; contrarian positions defended with combative wit; long sentences that build to devastating conclusions; treats intellectual combat as highest entertainment; unapologetic confidence in his own judgment.
 
-Corporate Communications
+Philosophy / Religion
 
--
+- Pico Iyer
+- Socrates
+- The Buddha?
 
 Psychology, Behavior & Self-Help
 
@@ -328,6 +330,71 @@ https://sanand0.github.io/llmartstyle/
 - Vaporwave Aesthetics: Draw in Vaporwave style, with pastel pink and blue gradients, retro computer graphics, VHS glitch textures, Greco-Roman statues, obsolete 90s UI elements, palm trees, Japanese text, and a melancholic nostalgic mood.
 - Risograph Texture: Draw in Risograph style, with limited vibrant spot colors, overprinted layers creating unexpected blends, halftone grainy textures, and charming imperfections like misaligned color registration and uneven ink coverage.
 
+## Visual Communications
+
+1. Sketchnotes - Visual notes combining hand-drawn elements with text to capture ideas quickly
+2. Infographics - Data-driven visuals merging charts, icons, and text to explain complex information
+3. Data visualizations - Charts and graphs pairing statistical information with visual representation
+4. Comic books/graphic novels - Sequential narrative art combining illustrated panels with dialogue and captions
+5. Advertising design - Commercial visuals pairing persuasive imagery with marketing copy
+6. Social media graphics - Digital templates merging photos, illustrations, and text for platforms like Instagram
+7. Magazine layouts - Editorial spreads integrating photography, headlines, and body text
+8. Movie posters - Promotional imagery combining title treatment with key visual elements
+9. Book covers - Illustrative designs pairing typography with imagery to represent content
+10. Presentation slides - Business/educational visuals combining data, images, and text
+11. Memes - Internet culture images pairing photos/illustrations with captioned humor
+12. Album/music covers - Artistic packaging combining band names with visual identity
+13. Editorial cartoons - Political/social commentary combining caricature with speech bubbles or captions
+14. Instructional diagrams - Technical or educational visuals pairing labeled illustrations with explanatory text
+15. Zines - Self-published magazines mixing collage, drawings, and handwritten or typed text
+16. Packaging design - Product containers integrating brand identity, imagery, and information
+17. Signage/wayfinding - Environmental graphics combining symbols, directions, and text
+18. Concert/gig posters - Event promotion combining decorative typography with illustrative elements
+19. Storyboards - Film/animation planning combining sketched scenes with action notes
+20. Graphic recording - Live event documentation capturing ideas through drawings and keywords
+21. Visual essays - Journalistic narratives combining photography/illustration with extended text
+22. Protest banners/signs - Activist art pairing slogans with symbolic imagery
+23. Calligrams - Poetry arranged typographically to form images related to the text's meaning
+24. Artist's books - Fine art publications treating the book as a canvas for mixed media
+25. Illuminated manuscripts - Historical decorated texts combining ornamental borders with calligraphy
+26. Broadsheets/broadsides - Single-sheet publications mixing typography with illustration
+27. Map illustrations - Cartographic art combining geographical representation with labels and legends
+28. Concrete poetry - Verse where visual arrangement of words creates meaning beyond language
+29. Mail art - Postal correspondence transformed into artistic collages with stamps and text
+30. Asemic writing - Abstract calligraphy-like marks that mimic text without linguistic meaning
+31. Fluxus scores - Avant-garde instruction pieces combining diagrams with cryptic textual directions
+32. Letraset collages - Retro graphic art using dry-transfer lettering combined with cut images
+
+## Visual Data Art
+
+https://gemini.google.com/u/2/app/f9fc55a95d6fecaf
+
+- Flow Fields: Silky, sweeping, painterly lines that look like combed fur, topographic maps, or river currents. Uses a grid of invisible vectors (arrows) to guide the path of drawing agents, simulating fluid dynamics. E.g. Tyler Hobbs. *Fidenza* — A series that feels like a perfect hybrid of computer precision and abstract expressionist painting.
+- Reaction-Diffusion: Psychedelic animal print, brain coral textures, and fingerprint-like mazes that morph and breathe. Simulates chemical chemicals diffusing and reacting to create complex, self-organizing patterns (Turing patterns). E.g. Jonathan McCabe. *Multi-Scale Turing Patterns* — Hypnotic, colorful, microscopic-looking textures.
+- Physarum (Slime Mold) Simulation: Ghostly, veiny networks that look like fungal roots or city traffic seen from space. Mimics the behavior of *Physarum polycephalum* (slime mold) foraging for food, creating efficient transport networks. E.g. Sage Jenson. *Ceres* — A digital simulation where millions of particles form organic, breathing vascular structures.
+- Swarm & Flocking (Boids): Murmurations of starlings, schools of fish, or particles moving in synchronized, liquid chaos. Emergent complexity arises from simple rules: separation, alignment, and cohesion. E.g. Robert Hodgin. *Flight Patterns* — Visualizations of air traffic data that look like glowing, living organisms.
+- L-Systems (Lindenmayer Systems): Fractal trees, alien ferns, and recursive branching structures. Uses a grammar of string rewriting rules to model biological growth processes like plant branching. E.g. Jon McCormack. *Fifty Sisters* — Evolved digital plant species generated from code, presented as botanical illustrations.
+- Pixel Sorting: Melty, dripping streaks of color where an image looks like it's sliding off the canvas. Reorders the pixels of an image based on brightness or hue, treating image data as a list of numbers to be organized. E.g. Kim Asendorf. *Mountain Tour* — The project that popularized the "pixel sort" aesthetic, turning landscapes into digital waterfalls.
+- Datamoshing: Surreal, smeared transitions where one video frame "melts" into the next, often leaving artifacts of the previous scene. Exploits video compression errors (specifically removing I-frames) to force motion from one clip to carry the pixels of another. E.g. Takeshi Murata. *Monster Movie* — A video work that turns a B-movie monster into a pulsating, liquid abstraction.
+- Dithering (Algorithmic 1-Bit): Retro, grainy, noisy textures composed entirely of black and white dots (or limited palettes). Exploring how to represent continuous tone using only binary states (on/off), often finding beauty in the "noise" of error diffusion. E.g. Dmitry Morozov. *Ra* — Uses 1-bit dithering aesthetics in hardware installations to visualize sound and laser scans.
+- Feedback Loops (Video Feedback): Infinite tunnels, liquid trails, and "hall of mirrors" effects that drip and echo. Feeding the output of a system back into its input, creating self-perpetuating, chaotic, and often uncontrollable results. E.g. Andrei Jay. *Waaave Pool* — A video synthesis tool that creates melting, retro-psychedelic visuals using digital feedback.
+- Ray Marching (SDFs): Smooth, plastic-like, infinite 3D landscapes that morph continuously; often looks "squishy" or mathematically perfect. Renders scenes by "marching" rays forward until they hit a mathematically defined distance field, allowing for infinite detail without polygons. E.g. Inigo Quilez. *Elevated* — A 4KB intro (program) that generates a photorealistic mountain range from pure math in real-time.
+- Strange Attractors: Wispy, fine-line tornados or glowing wireframe butterflies orbiting invisible points in space. Visualizes chaotic systems where a point orbits a specific set of values (the attractor) but never exactly repeats the same path. E.g. Dimitris Ladopoulos (Chaotic Atmosphere). *Attractors* — High-definition renderings of mathematical equations that look like exquisite digital jewelry.
+- Mandelbulbs (3D Fractals): Infinite alien cathedrals, H.R. Giger-esque tunnels, and hyper-detailed geometric caverns. Extends the 2D Mandelbrot set into 3D space, creating structures with infinite complexity at any zoom level. E.g. Tom Beddard (subblue). *Fabergé Fractals* — Intricate, ornate 3D fractals that resemble alien artifacts or baroque architecture.
+- Circle Packing: Bubbles, cellular structures, or pebbles filling a container perfectly without overlapping. The algorithmic challenge of fitting the maximum number of non-overlapping circles (or shapes) into a defined boundary. E.g. Julien Gachadoat. *Voronoi / Packing Studies* — Minimalist plotter drawings where thousands of tiny circles form larger shapes or gradients.
+- Voronoi & Delaunay (Generative Low Poly): Shard-like, crystalline, faceted structures that look like stained glass or crumpled paper. Partitions a plane based on distance to points (Voronoi) or connects points into triangles (Delaunay) to reconstruct forms. E.g. Raven Kwok. *1194D* — An interactive creature made of subdividing tetrahedrons that explode and reform.
+- Isometric Generative: Impossible architecture, endless staircases, and tumbling geometric blocks in a 2.5D orthographic view. Uses a grid-based isometric projection to create optical illusions or dense structural compositions without perspective distortion. E.g. Manolo Gamboa Naon. *Mantissa* — Vibrant, dense compositions of overlapping geometric forms that feel like futuristic blueprints.
+- Generative Plotter Art: Minimalist, high-contrast, pen-on-paper, "shaky" lines, moiré patterns. Writing code specifically to be drawn by a robotic arm (pen plotter), embracing the friction and ink bleed of the physical world. E.g. Vera Molnár. *Structure de Quadrilatères* — Simple squares slightly offset by random algorithms to investigate the line between order and chaos.
+- ASCII / PETSCII Art: Images constructed entirely from text characters, looking like "The Matrix" code or vintage terminal displays. Using the density of typographic characters (glyph brightness) to represent light and shadow. E.g. Kenneth Knowlton. *Studies in Perception I* — An iconic nude portrait made entirely of computer symbols, one of the earliest digital artworks.
+- Vector Synthesis (Oscilloscope Art): Glowing green neon lines, lissajous knots, and shapes that vibrate and twist with sound. Using audio signals to drive the X and Y deflection of an electron beam on an analog oscilloscope—you are literally "seeing" the sound. E.g. Jerobeam Fenderson. *Oscilloscope Music* — Music videos where the audio waveform draws 3D shapes (mushrooms, butterflies) on the screen.
+- Demoscene (4k Intros): Flashy, high-speed, techno-futuristic 3D graphics that push hardware to the limit. Extreme efficiency; creating a full audiovisual experience (music + video) in an impossibly small file size (e.g., 4096 bytes). E.g. Farbrausch. *fr-08: .the .product* — A seminal 64kb intro that generated an entire 3D world and soundtrack from a file smaller than a JPEG.
+- Subdivision / Computational Architecture: Gothic, bone-like, incredibly detailed columns and grottos that look grown rather than built. Recursively dividing simple shapes into smaller, more detailed versions of themselves (folding) to create massive surface complexity. E.g. Michael Hansmeyer. *Digital Grotesque* — A 3D-printed room so detailed it contains millions of unique facets, generated by subdivision algorithms.
+- Asemic Writing (Generative): Alien scripts, calligraphy that means nothing, sprawling glyphs that look like ancient manuscripts. Generating text-like forms that have no semantic meaning, focusing purely on the aesthetic of written language. E.g. Xu Bing / Tim Gaze. *A Book from the Sky* — While hand-carved, it is the foundational conceptual work for this style; modern versions generate these glyphs with AI/code.
+- Slit-Scan / Time Displacement: Stretched, jelly-like distortions where moving objects look like long, twisted tubes. visualizing time as space by capturing a single sliver of a video frame over and over and stacking them horizontally. E.g. Adam Magyar. *Stainless* — High-speed subway trains captured through a slit-scan, making the busy commuters look like frozen statues in a void.
+- Cellular Automata: Pixelated "critters" moving on a grid, expanding crystals, and retro-arcade textures. Discrete models where the state of a cell depends on the state of its neighbors (e.g., Conway's Game of Life), creating complex behavior from simple rules. E.g. Maxime Causeret. *Order from Chaos* — A video visualizing cellular automata rules that evolve from simple dots into complex, organism-like colonies.
+- Live Coding (Algorave): Cyberpunk, flashing code overlaid on top of the visuals it is creating in real-time. Showing the "seams" of the art; the code is the interface and the art simultaneously, written live in front of an audience. E.g. Olivia Jack. *Hydra* — A live-coding video synth that runs in the browser, allowing for glitchy, feedback-heavy visuals created by typing code on the fly.
+- Wave Function Collapse: Pixel-art cities that assemble themselves, pipes that always connect perfectly, procedural dungeons. An algorithm that fills a grid by determining which tiles *can* exist next to each other based on a set of constraints, solving the "puzzle" of the image. marian42 (Marian Kleineber). E.g. *Infinite City* — A procedural city generator that creates endless, logical, navigable 3D structures.
+
 ## Data Visualization
 
 https://claude.ai/chat/8cd25010-20d0-456c-b8fb-84e9a622f8a0
@@ -392,6 +459,46 @@ https://claude.ai/chat/8cd25010-20d0-456c-b8fb-84e9a622f8a0
 - Amazon PR/FAQ: Write a future press release and FAQ first, then backfill tech and plan from there.
 - Sequoia pitch memo: Problem, product, why now, market, traction, and unfair advantage, each in 2–3 sharp sentences.
 - Andy Grove OKR check: State objective, 3–5 key results with metrics, and list explicit “what must be true” assumptions.
+
+## Email & professional correspondence
+
+- Patrick McKenzie cold email: Highly specific, researched, focused on clear value and a tiny, low-friction next step.
+- Bezos internal memo: Narrative-only email with context, analysis, and clear decision request at the end.
+- Exec status snapshot: One screen: green/yellow/red, 3 bullets on progress, 3 on risks, 3 on asks.
+- Support reply like Superhuman: Short, fast, clear fix with one delightful extra tip or shortcut.
+
+Deterministic emails
+
+- Axios/Morning Brew: Structured sections ("The big picture", "By the numbers", "Why it matters"), short paragraphs, scannable bullets, deterministic headers map to conditional logic.
+- SaaS metrics dashboard email (ChartMogul/Baremetrics): Visual hierarchy with key metric cards, % changes with arrows, sparkline-style trends, one-line insights per metric.
+- McKinsey exec summary: Situation/Complication/Resolution format, pyramid principle with conclusion first, 3 supporting points, action-oriented bottom line.
+- FiveThirtyEight data journalism: Lead with the most surprising number, explain what's driving it, context through comparison, "What this means" actionable takeaway.
+- Internal SaaS weekly update (Stripe/Gitlab): Metrics table first, 2-3 narrative highlights, blockers/risks if any, clear next actions with owners.
+
+## Meeting transcript summarization
+
+- Matt Levine (Bloomberg Money Stuff): Makes complex financial governance and earnings shenanigans entertaining; explains corporate board dynamics through specific examples; finds the story in the footnotes; uses "here's the boring explanation, now here's what's actually happening" structure; skeptical intelligence.
+- Priya Parker (The Art of Gathering): Treats meeting purpose as key to summarization; "what was this meeting for?" determines what to highlight; distinguishes meaningful moments from filler; narrative arc even in business meetings; helps readers understand significance.
+- Michael Lewis: Would identify the key conflict or question the meeting resolved; uses character (speakers) to drive narrative when helpful; explains technical terms through context; builds to the decision as satisfying conclusion; "here's what was at stake" framing.
+- Atul Gawande: Would structure summary around key decisions and their rationale; acknowledges dissenting views fairly; uses "the committee discussed whether..." framing; makes procedural complexity clear without overwhelming; highlights what changed and why.
+- David Grady (TED: "How to save the world from bad meetings"): Minimalist meeting culture advocate; teaches ruthless prioritization; summary as "here's what we decided and what you need to do" - nothing more; respects readers' time; if it didn't result in decision or action, don't include it.
+- The Economist (house style): Would open with decision/outcome, provide necessary background, then explain debate briefly; active voice making clear who decided what; technical terms defined in passing; implications stated clearly; consistent structure across all meeting summaries.
+- ProPublica: Would quote exact language when precision matters; attributes positions to specific speakers when accountability requires it; provides document links for verification; flags unresolved questions; "officials said/claimed/argued" precision without editorializing.
+- Jon Krakauer: Would weave multiple speaker perspectives into coherent story; timestamps when sequence matters; uses "according to meeting records" attribution; acknowledges where accounts differ; chronological when helpful, thematic when clearer.
+- Ann Macfarlane: Parliamentary procedure expert who makes Roberts Rules accessible; "Mastering Council Meetings" treats governance as clear communication opportunity; action-item focused; distinguishes discussion from decisions; templates for different meeting types; treats minutes as service to absent stakeholders; "what was decided and what happens next" clarity.
+- Eli Mina: Professional meeting consultant; "The Complete Handbook of Business Meetings" transforms rambling discussions into actionable summaries; teaches "decision documentation" vs. transcription; uses structured formats (background, discussion summary, decision, action items, timeline); treats meeting summary as accountability document.
+- Karin Reed & Joseph Allen: "Suddenly Virtual" meeting experts; teaches remote meeting documentation; structures that work for distributed audiences; distinguishes chat/side conversations from main discussion; timestamps for video reference; accessible to those joining asynchronously.
+- David Fahrenthold (Washington Post): Investigative reporter who makes FOIA'd documents and government meetings accessible; uses Twitter threads to summarize complex hearings in real-time; bullet-point clarity; highlights contradictions and evasions; "here's what they said, here's what it means" translation; skeptical but fair.
+- Maggie Haberman / Peter Baker (NYT): White House reporters who synthesize hours of meetings/hearings into readable narratives; attribute positions accurately while creating flow; use "according to people familiar with the discussion" framing; distinguish on-record from background; build narrative tension even in procedural matters.
+- Local Government Reporters (Best Practices): City hall/county beat reporters who cover council meetings weekly; develop "meeting story" formula: lede with most important decision, explain context, summarize debate, note what's next; serve engaged citizens needing accountability; balance completeness with readability; "residents said/council voted" clarity.
+- Emily Badger / Margot Sanger-Katz (NYT Upshot): Explain policy debates and their implications; "here's what the data shows" grounding; translate expert disagreements for general readers; charts/graphics to clarify complex discussions; implications for readers' lives made explicit.
+- Dahlia Lithwick (Slate Supreme Court coverage): Makes oral arguments and judicial conferences accessible to non-lawyers; captures legal debate's substance without jargon; uses dialogue format when it clarifies; identifies stakes for non-experts; "here's why this matters" framing; personality without sacrificing accuracy.
+- Amy Howe (SCOTUSblog): Supreme Court "Plain English" summaries of decisions and arguments; exemplary distillation of complex legal reasoning; active voice, concrete language; "the Court held that" vs. "it was held"; anticipates reader questions; structured for skim-reading with depth available.
+- Carl Hulse / Sheryl Gay Stolberg (NYT Congressional coverage): Synthesize congressional hearings and floor debates; balance partisan perspectives fairly; distinguish theater from substance; explain procedural moves clearly; "what happened and why" for readers unfamiliar with process.
+- Government Accountability Office (GAO) reports: Models for clear government writing; "Highlights" page as one-page summary; "What GAO Found" bullet structure; recommendations clearly stated; background provided efficiently; accessible to non-experts while maintaining precision.
+- Seeking Alpha Transcripts (edited versions): Raw transcript vs. summary comparison; earnings call structure (prepared remarks, Q&A) made navigable; key quotes pulled out; guidance and forward-looking statements highlighted; participant identification; timestamps for video reference.
+- FactSet/Bloomberg Earnings Analysis: Distills multi-hour earnings calls into key takeaways; "management said/reiterated/revised" precision; numbers presented with context (vs. expectations, prior guidance); analyst questions summarized thematically; action items for investors.
+- Michael Wilkinson (The Secrets of Facilitation): Professional facilitator teaching "Executive Summary" method; distinguishes parking lot from decisions; uses "the group agreed" vs. "discussion included" distinctions; action item format (what, who, when); consensus vs. majority vs. decision-maker clarity.
 
 ## Technical documentation & developer experience
 
@@ -465,21 +572,6 @@ https://claude.ai/chat/8cd25010-20d0-456c-b8fb-84e9a622f8a0
 - Diplomat decline: Graciously acknowledge value, decline clearly, propose an alternate path, preserve relationship.
 - Japanese business politeness: Indirect negative responses, face-saving language, heavy use of honorifics and apologies.
 - “Disagree and commit” email: State disagreement succinctly, record reasoning, and explicitly commit to the chosen path.
-
-## Email & professional correspondence
-
-- Patrick McKenzie cold email: Highly specific, researched, focused on clear value and a tiny, low-friction next step.
-- Bezos internal memo: Narrative-only email with context, analysis, and clear decision request at the end.
-- Exec status snapshot: One screen: green/yellow/red, 3 bullets on progress, 3 on risks, 3 on asks.
-- Support reply like Superhuman: Short, fast, clear fix with one delightful extra tip or shortcut.
-
-Deterministic emails
-
-- Axios/Morning Brew: Structured sections ("The big picture", "By the numbers", "Why it matters"), short paragraphs, scannable bullets, deterministic headers map to conditional logic.
-- SaaS metrics dashboard email (ChartMogul/Baremetrics): Visual hierarchy with key metric cards, % changes with arrows, sparkline-style trends, one-line insights per metric.
-- McKinsey exec summary: Situation/Complication/Resolution format, pyramid principle with conclusion first, 3 supporting points, action-oriented bottom line.
-- FiveThirtyEight data journalism: Lead with the most surprising number, explain what's driving it, context through comparison, "What this means" actionable takeaway.
-- Internal SaaS weekly update (Stripe/Gitlab): Metrics table first, 2-3 narrative highlights, blockers/risks if any, clear next actions with owners.
 
 ## Personal reflection, thinking & journaling
 
