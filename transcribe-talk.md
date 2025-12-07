@@ -8,6 +8,7 @@ Transcribe this talk.
 DO NOT MISS ANY PART OF THE TALK.
 Drop verbal tics and fillers (um, uh, etc).
 Correct spelling and grammar but otherwise don't modify the original words.
+Mark inaudible or unclear segments as "[UNCLEAR]".
 Break it into logical paragraphs. No timestamps.
 For audience questions, prefix with "**Question**: ..." and answers with "**Answer**: ..."
 **Make key points / takeaways / memorable statements bold**.

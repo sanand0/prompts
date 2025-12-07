@@ -44,3 +44,5 @@ Write as a Markdown list of lists with no headings:
   - **[what to try]**: why it's high-impact & novel
   - ⭐ **[next item to try]**: begin with a star for the best bullets
   - ...
+
+## Transcript

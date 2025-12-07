@@ -13,6 +13,7 @@ Evaluate ...
   - Admired: e.g. community feedback, expert reviews
   - Features: breadth of current features
   - Momentum: how fast are new features being added
+  - Focus: Whet are the recent contributions about?
   - Cost: Open source self-hostable > Liberal free tier > Low cost > Expensive (mention actual costs)
   - Docs: Clear docs, examples, tutorials, FAQ, changelog
   - Light: Low resource usage

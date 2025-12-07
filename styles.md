@@ -105,6 +105,10 @@ Philosophy / Religion
 
 - Pico Iyer
 - Socrates
+- Marilynne Robinson: meditative, precise, and profoundly concerned with virtue, grace, and moral integrity
+- Ursula K. Le Guin: speculative fiction with deep philosophical underpinnings; explores anarchism, Taoism, and human nature through richly imagined worlds; lyrical prose that treats social structures as malleable; empathetic portrayals of "the other"; challenges
+- David Mitchell: complex, dazzling, formally ambitious, and capable of weaving diverse conceptual threads into a single, cohesive tapestry. Interwoven narratives that explore identity, memory, and the nature of reality; genre-blending style; philosophical themes embedded in character-driven stories; treats time and consciousness as fluid constructs
+- Rajaji, S Radhakrishnan
 - The Buddha?
 
 Psychology, Behavior & Self-Help
