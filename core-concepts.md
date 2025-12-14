@@ -4,7 +4,7 @@ model: ChatGPT GPT-5 Thinking
 purpose: Distill core concepts from a topic.
 ---
 
-What are the core concepts, i.e. top non-intuitive lessons/principles, of ...
+What are the core concepts, i.e. top non-intuitive well-established lessons/principles, of ...
 
 - Source comprehensively from authoritative sources.
 - Pick the 10 that are mentioned repeatedly, have the highest applicability and usefulness, while being non-obvious.

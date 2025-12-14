@@ -10,6 +10,12 @@ Generate 5+ diverse candidate ideas. Score each on impact, ease, novelty. Recomm
 For brainstorming, ideation, evaluation, etc.
 Other styles: SCAMPER, TRIZ, lateral thinking, etc.
 
+## Style detection
+
+Think about whose style of writing would be the most engaging and informative to write the following content.
+List options, mentioning their style, why they're suitable, and pick the best, with reason.
+Then rewrite it in their style.
+
 ## Malcolm Gladwell Style
 
 Explain it like a Malcolm Gladwell New Yorker article.

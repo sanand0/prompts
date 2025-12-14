@@ -8,6 +8,8 @@ Transcribe this call recording with Anand (LLM expert, Straive/Gramener).
 DO NOT MISS ANY PART OF THE CONVERSATION.
 Drop verbal tics and fillers (um, uh, etc).
 Correct spelling and grammar but otherwise don't modify the original words.
+Add English translations to any non-English parts.
+Mark inaudible or unclear segments as "[UNCLEAR]".
 Break it into logical paragraphs. No timestamps.
 Begin each paragraph with a **Speaker**: ...., e.g. **Anand**: ...
 Guess speaker names. If unsure, use **Unsure**: ...
