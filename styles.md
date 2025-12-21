@@ -335,40 +335,114 @@ https://sanand0.github.io/llmartstyle/
 - Vaporwave Aesthetics: Draw in Vaporwave style, with pastel pink and blue gradients, retro computer graphics, VHS glitch textures, Greco-Roman statues, obsolete 90s UI elements, palm trees, Japanese text, and a melancholic nostalgic mood.
 - Risograph Texture: Draw in Risograph style, with limited vibrant spot colors, overprinted layers creating unexpected blends, halftone grainy textures, and charming imperfections like misaligned color registration and uneven ink coverage.
 
+## Presentations
+
+https://claude.ai/chat/2c86ad6b-07e0-4c32-a3a8-53ea632d327c
+
+Invented:
+
+- Editorial Spread Layout: Create magazine-style two-page spreads where left pages contain rich narrative text in columns with pull quotes and callouts, while right pages feature complementary full-bleed data visualizations, photographic evidence, or infographics that together form complete self-contained stories per spread.
+- Spatial Journey Map: Build slides as illustrated overhead maps or floor plans where concepts exist as "rooms" or "locations" connected by pathways, with each area containing clustered information, wayfinding labels, zoomed insets for detail, and visual journeys that show how ideas geographically relate and connect.
+- Layered Transparency Stack: Construct slides showing multiple semi-transparent overlay layers that can be conceptually "peeled back" - starting with simplified headline summary on top, revealing supporting evidence layer beneath, then detailed methodology layer, then raw data foundation - all visible simultaneously with selective opacity creating information depth perception.
+- Chat Thread Storytelling: Structure slides as familiar messaging app conversations where insights unfold as text bubbles from different stakeholder "voices," interspersed with inline charts, quoted data, reaction emojis for emphasis, and threaded replies that create narrative tension and multiple perspectives within organized conversation flows.
+- Dashboard Narrative: Design slides as interactive-looking dashboard interfaces where the main insight appears as a headline metric or KPI, surrounded by supporting micro-visualizations, contextual sparklines, comparative benchmarks, and drill-down annotations that create the illusion of clickable exploration while maintaining static slide clarity.
+- Infographic Equation Format: Design slides as visual equations where illustrated icons, data blocks, and concept bubbles are connected by mathematical operators (plus, minus, arrows, equals) to show cause-effect relationships, with each element containing detailed statistics, explanatory subtext, and supporting micro-charts that reveal how components combine to create outcomes.
+- Cross-Section Technical Cutaway: Create slides as architectural cross-section illustrations showing "inside views" of concepts with exposed layers, labeled components, dimensional callouts, exploded assembly details, material specifications, and annotated internal mechanisms that reveal hidden complexity like engineering blueprints meet infographic storytelling.
+- Parallel Timeline Tracks: Structure slides with 3-5 horizontal swim lanes running simultaneously across the page - each track representing different dimensions (market trends, product evolution, competitive moves, regulatory changes, customer behavior) - with synchronized vertical markers connecting related events and dense annotations explaining convergence points.
+- Modular Card Mosaic: Build slides as grids of distinct content cards in varying sizes (like Pinterest or newspaper layouts) where each card is a self-contained insight unit with mini-headline, supporting visual, and key data point, while the overall arrangement creates visual patterns and thematic clustering that reveals meta-insights.
+- Radial Hub-and-Spoke Constellation: Construct slides with central core concept surrounded by orbiting satellite nodes connected by curved relationship lines, where each satellite contains substantial detail (text paragraphs, mini-charts, case examples) and the spatial positioning indicates strength of relationship, creating solar system-like information architectures with clear hierarchical depth.
+
+Mainstream:
+
+- Corporate/Consulting Deck (Barbara Minto - Pyramid Principle): Structure slides with executive summary upfront, logical flow using MECE frameworks, clear section dividers, and data-backed recommendations formatted for boardroom decision-making.
+  - McKinsey Style (Gene Zelazny): Produce slides with clear action titles that convey the main message, supported by data visualizations (charts, tables) and structured layouts following pyramid principle logic.
+  - Assertion-Evidence (Michael Alley): Design each slide with a complete sentence headline stating the key assertion, followed by visual evidence (graphs, diagrams, images) that supports that specific claim without bullet points.
+- Jobs/Apple Keynote (Steve Jobs): Design visually striking slides with dramatic high-resolution images, minimal text, powerful one-liners, and significant use of white space to create emotional impact.
+- Duarte Narrative Arc (Nancy Duarte): Structure slides following a three-act story framework alternating between "what is" (current reality) and "what could be" (desired future), building tension toward a climactic call-to-action that inspires audience transformation.
+- Visual Metaphor Method (Dan Roam - Back of the Napkin): Build slides using hand-drawn style diagrams, simple sketches, and visual metaphors (portraits, charts, maps, timelines, flowcharts, equations) that convert complex concepts into understandable pictures anyone can grasp.
+- Presentation Zen / Visual Storytelling (Garr Reynolds): Create slides that tell a story through evocative high-quality full-bleed stock photography as background for every slide, with minimal text overlays and generous whitespace.
+- Lessig Method (Lawrence Lessig): Create slides with minimal text (1-3 words maximum per slide), using high visual rhythm and rapid slide transitions to emphasize individual points while maintaining speaker focus.
+- Takahashi Method (Masayoshi Takahashi): Generate slides with extremely large font sizes displaying only single words or short phrases in bold text against plain backgrounds, advancing quickly to maintain audience attention.
+- Pecha Kucha (Astrid Klein & Mark Dytham): Build exactly 20 slides that auto-advance every 20 seconds, requiring concise visual storytelling with minimal text and forcing disciplined pacing throughout the 6-minute-40-second presentation.
+- Ignite Format (Brady Forrest & Bre Pettis): Create exactly 20 slides that auto-advance every 15 seconds for a fast-paced 5-minute presentation, using bold visuals and minimal text to maintain high energy.
+- TED Style (Chris Anderson/TED): Create visually compelling slides with powerful imagery, minimal bullet points, emotional storytelling elements, and data visualizations that support a singular transformative idea.
+- Kawasaki 10/20/30 Rule (Guy Kawasaki): Build no more than 10 slides deliverable in 20 minutes using minimum 30-point font, focusing on problem, solution, business model, and key metrics with high visual impact.
+- Academic/Research Style (Edward Tufte influenced): Design information-dense slides with detailed charts, comprehensive data, proper citations, and multiple supporting visuals that prioritize analytical depth over aesthetic minimalism.
+- Lightning Talk (Varies - conference format): Prepare 5-10 highly visual slides for a 5-minute rapid-fire presentation using punchy headlines, striking images, and absolutely no bullet points to convey one core message.
+- Startup Pitch Deck (Paul Graham/Y Combinator): Create 10-15 slides covering problem, solution, market size, product demo, traction, business model, team, competition, and funding ask, using clean visuals and concrete metrics that prove momentum and defensibility.
+- Academic Research Talk (ACM/IEEE Conference Style): Design slides with structured sections (motivation, related work, methodology, results, discussion, conclusion) featuring technical diagrams, experimental data, algorithm visualizations, and comprehensive references for peer evaluation.
+- Vision/Strategy Memo Format (Jeff Bezos - Amazon 6-pager): Convert the presentation into narrative-driven slides with full paragraphs and complete sentences explaining the vision, customer working backwards, strategic rationale, and implementation roadmap without relying on bullet points or abbreviated text.
+
+Corporate:
+
+- Bridgewater Associates Principles Deck (Ray Dalio): Build comprehensive slides combining philosophical principles written as complete sentences, supporting case studies, decision-tree flowcharts, historical data analysis, and systematic frameworks that document organizational thinking and decision-making processes.
+- Netflix Culture Deck (Reed Hastings/Patty McCord): Create concept-dense slides pairing philosophical statements about culture with concrete examples, performance frameworks, compensation philosophy details, and organizational values written as full paragraphs that function as employee handbook and recruitment tool.
+- Berkshire Hathaway Annual Letter Slides (Warren Buffett): Design information-packed slides with extensive financial tables, multi-year comparative data, plainspoken explanatory text, subsidiary performance breakdowns, and investment philosophy discussions that prioritize substance and transparency over aesthetics.
+- Mary Meeker Internet Trends Report (KPCB/Bond Capital): Produce data-visualization-heavy slides featuring hundreds of charts showing industry trends, growth metrics, comparative analyses, technology adoption curves, and macro insights with minimal text but maximum information density per slide.
+- Amazon PR/FAQ + Appendix (Jeff Bezos): Create narrative-heavy slides with dense paragraphs explaining the press release, FAQ responses, detailed appendices with supporting data tables, financial models, and operational metrics that function as standalone decision documents requiring no presenter.
+- Tesla Master Plan / Shareholder Letter (Elon Musk): Design slides with technical specifications, engineering diagrams, production metrics, future roadmaps, and bold vision statements combining granular operational data with aspirational storytelling in a distinctive red-black-white visual system.
+- Sequoia Capital Pitch Template: Structure slides with substantive content including detailed market sizing with methodology, competitive matrix analysis, unit economics breakdowns, go-to-market strategy specifics, and comprehensive financial projections that serve as investment memorandum.
+- BCG/Bain Strategy Review (Marvin Bower legacy): Produce analytically rigorous slides with 2x2 matrices, industry benchmarking data, detailed EBITDA waterfalls, strategic initiative roadmaps, and executive summary pages where every chart tells a complete story with full axis labels and source citations.
+- a16z Investment Memo Format (Marc Andreessen): Build slides combining market landscape analysis, technology trend theses, competitive positioning maps, founder background deep-dives, detailed TAM calculations, and risk factor assessments that serve as complete investment rationale documentation.
+- Goldman Sachs Pitchbook (Banking Standard): Construct comprehensive slides with precedent transaction tables, comparable company analysis, detailed valuation methodologies, sources-and-uses tables, pro-forma financial models, and disclaimer-heavy footnotes in classic navy-and-white formatting.
+- Stripe Press-Style Annual Review (Patrick Collison): Design intellectually substantial slides combining business metrics, essays on company philosophy, reading recommendations, technical architecture explanations, and economic analysis that treat audience as sophisticated readers rather than passive viewers.
+- Carta Equity Management Reports: Create detailed slides with cap table visualizations, dilution scenarios, ownership waterfalls, vesting schedules, 409A valuation methodologies, and regulatory compliance frameworks that function as legal-grade documentation with visual clarity.
+- BlackRock Investment Stewardship Report: Build comprehensive slides combining ESG metrics, voting record disclosures, engagement statistics, portfolio company dialogues, climate risk analyses, and governance frameworks with institutional-grade data visualization and academic-level rigor.
+- Palantir Foundry Demo Documentation: Design technical slides showing data pipeline architectures, ontology models, workflow automations, integration specifications, security frameworks, and use-case implementations with screenshot evidence and configuration details that serve as implementation blueprints.
+- Renaissance Technologies Research Presentation (Quantitative): Construct mathematically rigorous slides featuring statistical models, backtesting results, correlation matrices, algorithm performance metrics, risk-adjusted returns, and quantitative research methodologies with academic paper-level detail and reproducible analysis.
+
+Artistic:
+
+- Prezi Canvas (Adam Somlai-Fischer): Design a single infinite zoomable canvas where content exists at different scales and spatial relationships, with the presentation path zooming in/out and panning across interconnected ideas to reveal hierarchical relationships and spatial context.
+- Takram Prototype Show-and-Tell (Takram Design): Create slides that are minimal black backgrounds showcasing high-fidelity product photos, physical prototypes, and interaction videos with almost no text, letting tangible artifacts and demonstrations speak for themselves through pure visual craft.
+- Brand Deck / Lookbook (Pentagram/Paula Scher): Build visually immersive slides using full-bleed photography, bold typography as visual element, cohesive color palettes, and layout-as-message design where every slide feels like a poster or magazine spread rather than information delivery.
+- Data Mural (Giorgia Lupi - Dear Data): Construct slides featuring hand-drawn data visualizations, artistic infographics, and decorative quantified-self style illustrations where data becomes beautiful artwork with legends, annotations, and personal visual language.
+- Scrollytelling Deck (The Pudding/NYT Graphics): Design vertical scrolling narrative slides with animated transitions, progressive data reveals, interactive-style visualizations, and cinematic pacing where each scroll/advance unveils the next layer of a visual story.
+- Sketch-Note Style (Mike Rohde): Create hand-drawn looking slides combining doodles, hand lettering, arrows, containers, icons, and visual connectors in a sketchbook aesthetic that feels organic, approachable, and creativity-forward rather than corporate.
+- Brutalist/Anti-Design (David Rudnick): Build intentionally raw slides using clashing fonts, aggressive layouts, unexpected color combinations, overlapping elements, and deliberately "broken" design rules to create memorable visual tension and punk-aesthetic impact.
+- Cinematic Widescreen (Apple Product Launch): Produce ultra-high-resolution 21:9 widescreen slides with dramatic cinematography, slow-reveal product shots, atmospheric lighting, film-quality imagery, and Hollywood trailer pacing for maximum emotional and aesthetic impact.
+- Isometric World Building (Monument Valley style): Design slides using isometric perspective illustrations creating impossible architecture, interconnected modular scenes, and geometric worlds where concepts exist as navigable 3D spaces in flattened dimensional artwork.
+- Collage/Mixed Media (David Carson - Ray Gun Magazine): Assemble slides using layered photography, torn paper textures, overlapping transparency effects, experimental typography, and deliberate chaos that prioritizes emotional resonance and artistic expression over conventional readability.
+- Neon/Cyberpunk Aesthetic (Spotify Wrapped): Create high-contrast slides with vibrant neon gradients, glowing text effects, dark backgrounds, retro-futuristic UI elements, and animated data visualizations that feel like interactive digital experiences.
+- Comic/Graphic Novel Format (Scott McCloud): Structure slides as comic panels with speech bubbles, sequential art, character illustrations, visual metaphors, and panel-to-panel transitions that tell stories through illustrated narrative progression.
+- Blueprint/Technical Schematic (IDEO Process): Design slides resembling architectural blueprints or engineering schematics with grid backgrounds, technical line drawings, annotated diagrams, measurement callouts, and industrial design documentation aesthetic.
+- Kinetic Typography (Saul Bass title sequences): Build slides where text itself is the primary visual element through animated motion, dynamic scaling, rotational movement, and typographic choreography that creates meaning through letterform movement and rhythm.
+- Paper Craft / Tactile (Eiko Ojala): Construct slides using paper-cut illustration style with layered shadows, dimensional depth, textured surfaces, and crafted-by-hand aesthetic that brings warmth and physicality to digital presentations.
+
 ## Visual Communications
 
-1. Sketchnotes - Visual notes combining hand-drawn elements with text to capture ideas quickly
-2. Infographics - Data-driven visuals merging charts, icons, and text to explain complex information
-3. Data visualizations - Charts and graphs pairing statistical information with visual representation
-4. Comic books/graphic novels - Sequential narrative art combining illustrated panels with dialogue and captions
-5. Advertising design - Commercial visuals pairing persuasive imagery with marketing copy
-6. Social media graphics - Digital templates merging photos, illustrations, and text for platforms like Instagram
-7. Magazine layouts - Editorial spreads integrating photography, headlines, and body text
-8. Movie posters - Promotional imagery combining title treatment with key visual elements
-9. Book covers - Illustrative designs pairing typography with imagery to represent content
-10. Presentation slides - Business/educational visuals combining data, images, and text
-11. Memes - Internet culture images pairing photos/illustrations with captioned humor
-12. Album/music covers - Artistic packaging combining band names with visual identity
-13. Editorial cartoons - Political/social commentary combining caricature with speech bubbles or captions
-14. Instructional diagrams - Technical or educational visuals pairing labeled illustrations with explanatory text
-15. Zines - Self-published magazines mixing collage, drawings, and handwritten or typed text
-16. Packaging design - Product containers integrating brand identity, imagery, and information
-17. Signage/wayfinding - Environmental graphics combining symbols, directions, and text
-18. Concert/gig posters - Event promotion combining decorative typography with illustrative elements
-19. Storyboards - Film/animation planning combining sketched scenes with action notes
-20. Graphic recording - Live event documentation capturing ideas through drawings and keywords
-21. Visual essays - Journalistic narratives combining photography/illustration with extended text
-22. Protest banners/signs - Activist art pairing slogans with symbolic imagery
-23. Calligrams - Poetry arranged typographically to form images related to the text's meaning
-24. Artist's books - Fine art publications treating the book as a canvas for mixed media
-25. Illuminated manuscripts - Historical decorated texts combining ornamental borders with calligraphy
-26. Broadsheets/broadsides - Single-sheet publications mixing typography with illustration
-27. Map illustrations - Cartographic art combining geographical representation with labels and legends
-28. Concrete poetry - Verse where visual arrangement of words creates meaning beyond language
-29. Mail art - Postal correspondence transformed into artistic collages with stamps and text
-30. Asemic writing - Abstract calligraphy-like marks that mimic text without linguistic meaning
-31. Fluxus scores - Avant-garde instruction pieces combining diagrams with cryptic textual directions
-32. Letraset collages - Retro graphic art using dry-transfer lettering combined with cut images
+- Sketchnotes - Visual notes combining hand-drawn elements with text to capture ideas quickly
+- Infographics - Data-driven visuals merging charts, icons, and text to explain complex information
+- Data visualizations - Charts and graphs pairing statistical information with visual representation
+- Comic books/graphic novels - Sequential narrative art combining illustrated panels with dialogue and captions
+- Advertising design - Commercial visuals pairing persuasive imagery with marketing copy
+- Social media graphics - Digital templates merging photos, illustrations, and text for platforms like Instagram
+- Magazine layouts - Editorial spreads integrating photography, headlines, and body text
+- Movie posters - Promotional imagery combining title treatment with key visual elements
+- Book covers - Illustrative designs pairing typography with imagery to represent content
+- Presentation slides - Business/educational visuals combining data, images, and text
+- Memes - Internet culture images pairing photos/illustrations with captioned humor
+- Album/music covers - Artistic packaging combining band names with visual identity
+- Editorial cartoons - Political/social commentary combining caricature with speech bubbles or captions
+- Instructional diagrams - Technical or educational visuals pairing labeled illustrations with explanatory text
+- Zines - Self-published magazines mixing collage, drawings, and handwritten or typed text
+- Packaging design - Product containers integrating brand identity, imagery, and information
+- Signage/wayfinding - Environmental graphics combining symbols, directions, and text
+- Concert/gig posters - Event promotion combining decorative typography with illustrative elements
+- Storyboards - Film/animation planning combining sketched scenes with action notes
+- Graphic recording - Live event documentation capturing ideas through drawings and keywords
+- Visual essays - Journalistic narratives combining photography/illustration with extended text
+- Protest banners/signs - Activist art pairing slogans with symbolic imagery
+- Calligrams - Poetry arranged typographically to form images related to the text's meaning
+- Artist's books - Fine art publications treating the book as a canvas for mixed media
+- Illuminated manuscripts - Historical decorated texts combining ornamental borders with calligraphy
+- Broadsheets/broadsides - Single-sheet publications mixing typography with illustration
+- Map illustrations - Cartographic art combining geographical representation with labels and legends
+- Concrete poetry - Verse where visual arrangement of words creates meaning beyond language
+- Mail art - Postal correspondence transformed into artistic collages with stamps and text
+- Asemic writing - Abstract calligraphy-like marks that mimic text without linguistic meaning
+- Fluxus scores - Avant-garde instruction pieces combining diagrams with cryptic textual directions
+- Letraset collages - Retro graphic art using dry-transfer lettering combined with cut images
 
 ## Visual Data Art
 

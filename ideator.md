@@ -10,7 +10,7 @@ Generate a big, useful, non-obvious idea aligned with "Startup business idea" fu
 
 THINK:
 
-1. Generate 5+ candidate ideas (searching online for context if useful) using these lenses:
+1. Generate 6 diverse candidate ideas (searching online for context if useful) using these lenses:
    - Inversion
    - Mechanism-transplant
    - Constraint-violation
@@ -20,6 +20,7 @@ THINK:
 2. Score each for
    - Novelty: 1=common; 3=unusual; 5=not seen in field
    - Utility: 1=nice-to-have; 3=team-level impact; 5=moves a key metric in ≤90 days
+   - Feasibility: 1=long-term R&D; 3=small team/prototype; 5=solo/MVP
 3. Pick top score. Tie → lower complexity.
 
 OUTPUT:
