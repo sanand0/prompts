@@ -85,6 +85,29 @@ Science & Ideas Popularizers
 - Jared Diamond: Comparative analysis across civilizations and continents; asks big "why" questions (why did Eurasians dominate?); marshals evidence from geography, biology, linguistics, and archaeology; accessible synthesis of academic research; occasionally controversial conclusions delivered with confident authority.
 - Matt Ridley: Libertarian-inflected science writing that celebrates emergence, markets, and evolutionary adaptation; optimistic about human progress; lucid explanations of genetics and innovation; argues against top-down planning in favor of bottom-up solutions; engaging, accessible prose with contrarian edge.
 
+Code & Technology
+
+Here are writers whose style fits this brief, focused format well:
+
+**Technical/Programming:**
+
+- Simon Willison: Clear, example-driven explanations of web development and data tooling; conversational tone with practical code snippets; builds concepts progressively.
+- Julia Evans: Explains complex systems (DNS, Git, networking) with infectious curiosity and zero pretension; gets straight to the "aha!" moment
+- Dan Luu: Systematic, data-driven analysis that front-loads conclusions then supports them; no fluff
+- Rachel by the Bay: War stories from the trenches told with dry wit; always has a concrete takeaway
+- Hillel Wayne: Makes formal methods and verification approachable through clear examples and honest limitations
+- Xe Iaso: Direct technical explanations with personal voice; comfortable saying "here's what I learned"
+- Brandur: Clean, structured technical posts about databases and Go; leads with the practical insight
+- Joel Spolsky: Software development wisdom through storytelling; gets to the point while entertaining
+- Paul Graham: Essay format but front-loads the thesis; conversational yet substantive
+- Nathan Yau (Flowing Data): Data visualization explained through what you're actually seeing; no mystery
+- Alberto Cairo: Data journalism with clarity; shows then explains the visualization choices
+- Benedict Evans: Distills tech trends into sharp observations; no throat-clearing
+- Matt Levine: Finance/tech with personality; explains the punchline upfront then the setup
+- Gergely Orosz: Tech industry insights structured clearly; uses bullets and sections well
+- Nicky Case: Makes interactive explanations that teach through doing; transparent about the learning goal
+- Bartosz Milewski: Complex topics (category theory) made accessible through building up from basics
+
 Narrative Non-Fiction & Journalism
 
 - Michael Lewis: Character-driven narratives about complex systems (finance, sports, government); finds eccentric outsiders who see what others miss; explains arcane subjects through vivid personalities; cinematic scene-setting; builds suspense around intellectual discoveries; makes readers feel smart for understanding complicated things.
@@ -287,6 +310,20 @@ Investigative/True Crime
 
 - Serial (podcast): Narrative investigation across episodes building suspense; treats uncertainty openly; host as character working through evidence; audience participation in theorizing; season-long commitment to single story; spawned true crime podcast genre.
 - Texas Monthly: Regional magazine with outsized investigative ambition; treats Texas as inexhaustible subject; true crime and oil industry focus; literary feature writing; Skip Hollandsworth narrative craft; "The Confession" and similar franchise pieces.
+
+## Gentle Persuasion
+
+https://gemini.google.com/u/2/app/7cefc8a1b9a999e3
+
+- Marshall Rosenberg (Nonviolent Communication): He strips language of all moralistic judgment and diagnosis, forcing the reader (and speaker) to focus entirely on universal human needs and feelings, which makes defensiveness biologically impossible.
+- Daryl Davis (Accidental Courtesy). He recounts his experiences befriending KKK members not with arguments, but with the radical, disarming question: "How can you hate me when you don't even know me?"
+- Dale Carnegie (How to Win Friends and Influence People). He writes with a pragmatic, folksy warmth that frames agreement not as a battle of logic, but as a byproduct of making the other person feel important, understood, and liked.
+- Krista Tippett (On Being). Her interviewing style is a masterclass in "generous listening," where she uses soft, open-ended questions to let guests trace the genealogy of their own beliefs, often surprising themselves with what they say.
+- Carl Sagan (The Demon-Haunted World). He blends rigorous skepticism with a spiritual-like wonder, writing about the universe in a way that makes the reader feel small enough to let go of their ego, yet significant enough to want to know the truth.
+- David McRaney (How Minds Change). He uses a compassionate, journalistic style to deconstruct cognitive biases, framing delusions not as stupidity but as a shared, quirky human condition we can laugh about together.
+- Oliver Sacks (The Man Who Mistook His Wife for a Hat). He approaches the most broken and bizarre human conditions not with clinical detachment, but with a "romantic science" that treats every patient as a complete, dignified soul.
+- Jonathan Haidt (The Righteous Mind). He uses moral psychology to act as an interpreter between political tribes, explaining the "why" behind opposing beliefs so that they appear rational rather than evil.
+- Adam Grant (Think Again): His writing feels like a collaboration with the reader, using humility and scientific curiosity to normalize the act of "unlearning" as a strength rather than a weakness. Think Again explicitly advocates for the joy of being wrong; his tone is curious rather than corrective.
 
 ## Art
 

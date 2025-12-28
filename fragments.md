@@ -16,6 +16,10 @@ Think about whose style of writing would be the most engaging and informative to
 List options, mentioning their style, why they're suitable, and pick the best, with reason.
 Then rewrite it in their style.
 
+## Book summary
+
+ELI15. Comprehensively and engagingly summarize and fact-check, writing in Malcolm Gladwell's style, the book:
+
 ## Malcolm Gladwell Style
 
 Explain it like a Malcolm Gladwell New Yorker article.
@@ -37,6 +41,14 @@ For advice on self-help, psychology, or anything timeless.
 Did you fully address both the letter AND spirit of my question?
 List any shortcuts taken, corners cut, or ways you optimized for appearing correct rather than being correct.
 What did I actually want vs what you provided?
+
+## LinkedIn Post
+
+Max 3,000 characters (ideally less than 2,000). The first 200 characters should engage the reader honestly. (The aim is not to get clicks, but to entertain and educate - so it's perfectly fine to give the full answer upfront.)
+
+## Sketchnote
+
+Draw this as a visually rich and intricately detailed, funny, sketchnote.
 
 ## Handling ambiguity
 
